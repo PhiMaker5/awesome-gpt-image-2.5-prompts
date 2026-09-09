@@ -48,9 +48,13 @@ The model is days old, so this list is small on purpose. Every prompt is copied 
 
 ## 🏛️ Official Examples
 
-Verbatim example prompts from OpenAI's own [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique: style control, exact text rendering, layout, scoped editing, or multi-turn consistency.
+Verbatim example prompts from OpenAI's own [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique: style control, exact text rendering, layout, scoped editing, or multi-turn consistency. Shown renders are OpenAI's own, hot-linked from the same page; for edit prompts the input image is shown first.
 
 #### 1. Photorealistic Sailor on a Fishing Boat
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-5-flare.webp" alt="Photorealistic Sailor on a Fishing Boat — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -70,6 +74,10 @@ The image should feel honest and unposed, with real skin texture, worn materials
 
 #### 2. Automatic Coffee Machine Infographic
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-flare.webp" alt="Automatic Coffee Machine Infographic — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -85,6 +93,10 @@ I'd like to understand technically and visually the flow.
 ---
 
 #### 3. “Thread” Streetwear Campaign Ad
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-5-flare.webp" alt="“Thread” Streetwear Campaign Ad — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -105,6 +117,10 @@ No extra text, no watermarks, no unrelated logos.
 
 #### 4. Field & Flour Bakery Logo
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-flare.webp" alt="Field & Flour Bakery Logo — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-2-gpt-image-2-5-flare.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -122,6 +138,10 @@ Fully transparent background. Deliver a single centered logo with generous paddi
 
 #### 5. Bethel, New York — August 16, 1969
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-5-flare.webp" alt="Bethel, New York — August 16, 1969 — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -136,6 +156,10 @@ Photorealistic, period-accurate clothing, staging, and environment.
 ---
 
 #### 6. Four-Panel Comic: Pet Watching You Leave
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-5-flare.webp" alt="Four-Panel Comic: Pet Watching You Leave — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -155,6 +179,10 @@ Panel 4: The door opens. The pet is seated perfectly by the entrance, alert and 
 
 #### 7. Farmers-Market App UI Mockup
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-5-flare.webp" alt="Farmers-Market App UI Mockup — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -172,6 +200,10 @@ Place the UI mockup in an iPhone frame.
 ---
 
 #### 8. Cellular Respiration Biology Diagram
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-flare.webp" alt="Cellular Respiration Biology Diagram — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -192,6 +224,10 @@ Avoid tiny text, extra decoration, or anything that makes the diagram hard to un
 ---
 
 #### 9. “Market Opportunity” Pitch-Deck Slide
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-flare.webp" alt="“Market Opportunity” Pitch-Deck Slide — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -223,6 +259,12 @@ Avoid clip art, stock photography, gradients, shadows, decorative elements, or a
 
 #### 10. Transparent Product Cutout
 
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp" width="320">
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-5-flare.webp" alt="Transparent Product Cutout — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -241,6 +283,12 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 
 #### 11. Turn a Drawing Into a Photorealistic Image
 
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp" width="320">
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-5-flare.webp" alt="Turn a Drawing Into a Photorealistic Image — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -258,6 +306,10 @@ Do not add new elements or text.
 
 #### 12. Insert a Person Into a Bear-Attack Scene
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-5-flare.webp" alt="Insert a Person Into a Bear-Attack Scene — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -273,6 +325,12 @@ The campsite is in Yosemite National Park, with believable natural details. The 
 ---
 
 #### 13. Highway Billboard: “Fresh and Clean”
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp" width="320">
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-flare.webp" alt="Highway Billboard: “Fresh and Clean” — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -292,6 +350,10 @@ No watermarks, no logos.
 ---
 
 #### 14. Storybook Forest Hero — Establish & Continue (1/2)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-flare.webp" alt="Storybook Forest Hero — Establish & Continue (1/2) — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -327,6 +389,10 @@ Constraints:
 
 #### 15. Storybook Forest Hero — Establish & Continue (2/2)
 
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-5-flare.webp" alt="Storybook Forest Hero — Establish & Continue (2/2) — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -361,6 +427,12 @@ Constraints:
 
 #### 16. Swap White Chairs for Wooden Chairs
 
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp" width="320">
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-5-flare.webp" alt="Swap White Chairs for Wooden Chairs — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-5-sunburst.webp" width="320">
+
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -377,6 +449,10 @@ Photorealistic contact shadows and fabric texture.
 ---
 
 #### 17. Christmas Card: Old Teddy in a Keepsake Box
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-flare.webp" alt="Christmas Card: Old Teddy in a Keepsake Box — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
@@ -411,6 +487,10 @@ Include ONLY this card text (verbatim):
 ---
 
 #### 18. Vintage Propeller Plane Action Figure
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-flare.webp" alt="Vintage Propeller Plane Action Figure — official render from the prompting guide" width="560"></a>
+
+<img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp" width="320">
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 

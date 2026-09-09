@@ -11,7 +11,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/photorealism-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -28,7 +31,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -45,7 +51,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/thread-ad-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -62,7 +71,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-2-gpt-image-2-5-flare.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -79,7 +91,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/world-knowledge-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -96,7 +111,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/comic-reel-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -113,7 +131,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/ui-farmers-market-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -130,7 +151,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -147,7 +171,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -164,7 +191,11 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "expects a product photo as input image",
     "source_verified": true
@@ -181,7 +212,11 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "expects a sketch/drawing as input image",
     "source_verified": true
@@ -198,7 +233,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/scene-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "expects a reference photo of a person as input",
     "source_verified": true
@@ -215,7 +253,11 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -232,7 +274,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-1-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "Official multi-turn example, prompt 1 of 2 — establish the character.",
     "source_verified": true
@@ -249,7 +294,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/childrens-book-illustration-2-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "Official multi-turn example, prompt 2 of 2 — continue with the same character in a new scene.",
     "source_verified": true
@@ -266,7 +314,11 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": "expects a room photo as input image",
     "source_verified": true
@@ -283,7 +335,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
@@ -300,7 +355,10 @@
     "source_url": "https://developers.openai.com/api/docs/guides/image-prompting",
     "source_type": "official-docs",
     "published_at": "2026-09-08",
-    "images": [],
+    "images": [
+      "https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-flare.webp",
+      "https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp"
+    ],
     "model_note": null,
     "notes": null,
     "source_verified": true
