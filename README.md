@@ -1,7 +1,7 @@
 <h1 align="center">🎨 Awesome GPT Image 2.5 Prompts</h1>
 
 <p align="center">
-  <strong>24 verbatim, source-linked prompts for GPT Image 2.5</strong> —<br>
+  <strong>24 verbatim, source-linked prompts for GPT Image 2.5</strong>,<br>
   OpenAI's newest image model (<code>gpt-image-2.5-flare</code> / <code>gpt-image-2.5-sunburst</code>, shipped with ChatGPT Images 2.5 on Sep 8, 2026).<br>
   Every prompt is copied word-for-word from its named source: OpenAI's official guide or real launch-week posts on X.
 </p>
@@ -15,37 +15,40 @@
 
 ---
 
+<a id="what-is-this"></a>
+
 ## 🤔 What is this?
 
-GPT Image 2.5 launched **September 8, 2026** ([announcement](https://openai.com/index/introducing-chatgpt-images-2-5/)), bringing sharper detail, precise scoped editing, multi-turn consistency, 50% lower latency, plus two API models: **Flare** (fast, default) and **Sunburst** (precision edits). This repo tracks the prompts that define how the model is actually used.
+GPT Image 2.5 launched on September 8, 2026 ([announcement](https://openai.com/index/introducing-chatgpt-images-2-5/)). It renders sharper detail, edits a scoped region without touching the rest of the image, keeps subjects consistent across turns, and cuts latency roughly in half. The API ships two models: `gpt-image-2.5-flare` (fast, default) and `gpt-image-2.5-sunburst` (precision edits).
 
-Because the model is days old, this collection is deliberately **small and 100% verifiable** instead of padded:
+The model is days old, so this list is small on purpose. Every prompt is copied word-for-word from a named source, either OpenAI's official guide or a real launch-week post on X, and every result image is the actual render from that source. Nothing is paraphrased, regenerated, or "reverse-engineered." New entries land as launch-week prompts surface.
 
-- ✅ Every prompt is **verbatim** — no paraphrasing, no "reverse-engineered" fakes, no AI-rewritten variants.
-- ✅ Every entry links to a **named source**: OpenAI's official docs, the author's X post (fetched live), or a published hands-on write-up.
-- ✅ Every result image is the **real render from that source**, hot-linked — never re-generated to fake a demo.
-- 🌱 The collection grows as launch-week prompts surface. See [Contributing](#-contributing) to add yours.
+<a id="how-to-use"></a>
 
 ## 🧭 How to use
 
-1. Copy any prompt below. Official edit prompts marked *needs input image* expect you to attach a reference photo first; the rest are plain text-to-image.
-2. Run it in ChatGPT, or against `gpt-image-2.5-flare` (fast) / `gpt-image-2.5-sunburst` (precision) in the API.
-3. 2.5 also ships **Templates** (poster/merch starters), **@Sketch** (draw to guide generation), and **shareable prompts** — when someone shares an image on ChatGPT with its prompt, that link is a valid source to contribute here.
+1. Copy a prompt below exactly as written. The wording is part of the demo, so small edits can change the result.
+2. Run it in ChatGPT, or call the API with `gpt-image-2.5-flare` (fast, default) or `gpt-image-2.5-sunburst` (precision edits).
+3. Entries tagged *needs input image* are edit prompts: attach your reference photo first, then send the prompt. Everything else is plain text-to-image.
+4. Pairs marked (1/2) and (2/2) are one multi-turn demo, like #14 and #15: send the first prompt, then keep the same conversation going so the character stays consistent.
+5. ChatGPT Images 2.5 also ships Templates (poster and merch starters), @Sketch (draw to guide a generation), and shareable prompt links.
 
 ## 📖 Table of Contents
 
-- [🏛️ Official Examples (18)](#️-official-examples)
-- [🐦 First Wave from X (5)](#-first-wave-from-x-5)
-- [🔬 Hands-On Write-ups (1)](#-hands-on-write-ups-1)
-- [🤝 Contributing](#-contributing)
-- [🔗 More GPT Image 2.5 Resources](#-more-gpt-image-25-resources)
-- [⚖️ License & Attribution](#️-license--attribution)
+- [🤔 What is this?](#what-is-this)
+- [🧭 How to use](#how-to-use)
+- [🏛️ Official Examples (18)](#official-examples)
+- [🐦 First Wave from X (5)](#first-wave-from-x)
+- [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
+- [🤝 Contributing](#contributing)
+- [🔗 More GPT Image 2.5 Resources](#more-resources)
+- [⚖️ License & Attribution](#license)
 
 <a id="official-examples"></a>
 
 ## 🏛️ Official Examples
 
-Verbatim example prompts from OpenAI's own [GPT Image 2.5 prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique — style control, exact text rendering, layout, multi-turn consistency. Prompts tagged *needs input image* are edit prompts: attach a reference photo first.
+Verbatim example prompts from OpenAI's own [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique: style control, exact text rendering, layout, scoped editing, or multi-turn consistency.
 
 #### 1. Photorealistic Sailor on a Fishing Boat
 
@@ -318,7 +321,7 @@ Constraints:
 
 </details>
 
-👤 **[OpenAI](https://openai.com)** · [Source](https://developers.openai.com/api/docs/guides/image-prompting) · 2026-09-08 · ℹ️ Official multi-turn example, prompt 1 of 2 — establish the character.
+👤 **[OpenAI](https://openai.com)** · [Source](https://developers.openai.com/api/docs/guides/image-prompting) · 2026-09-08 · ℹ️ Official multi-turn example, prompt 1 of 2: establish the character.
 
 ---
 
@@ -352,7 +355,7 @@ Constraints:
 
 </details>
 
-👤 **[OpenAI](https://openai.com)** · [Source](https://developers.openai.com/api/docs/guides/image-prompting) · 2026-09-08 · ℹ️ Official multi-turn example, prompt 2 of 2 — continue with the same character in a new scene.
+👤 **[OpenAI](https://openai.com)** · [Source](https://developers.openai.com/api/docs/guides/image-prompting) · 2026-09-08 · ℹ️ Official multi-turn example, prompt 2 of 2: continue with the same character in a new scene.
 
 ---
 
@@ -440,11 +443,11 @@ Include ONLY this packaging text (verbatim):
 
 ---
 
-<a id="first-wave-from-x-5"></a>
+<a id="first-wave-from-x"></a>
 
 ## 🐦 First Wave from X
 
-Real prompts posted on X/Twitter during the 2.5 launch window (Sep 3–8, 2026), reproduced verbatim with the author's own result images hot-linked from the original post.
+Real prompts posted on X during the launch window (Sep 3-8, 2026), reproduced verbatim with each author's own result images hot-linked from the original post.
 
 #### 19. Einstein Handwriting Essay
 
@@ -518,7 +521,7 @@ my portrait in cyberpunk
 
 </details>
 
-👤 **[@GaelBreton](https://x.com/GaelBreton)** · [Source](https://x.com/GaelBreton/status/2097427507712528468) · 2026-09-08 · ℹ️ Prompt 1 of 2 from the same post — author notes 2.5 sometimes adds text nobody asked for.
+👤 **[@GaelBreton](https://x.com/GaelBreton)** · [Source](https://x.com/GaelBreton/status/2097427507712528468) · 2026-09-08 · ℹ️ Prompt 1 of 2 from the same post. The author notes 2.5 sometimes adds text nobody asked for.
 
 ---
 
@@ -540,11 +543,11 @@ A yorkie playing with his ball in Budapest
 
 ---
 
-<a id="hands-on-write-ups-1"></a>
+<a id="hands-on-write-ups"></a>
 
 ## 🔬 Hands-On Write-ups
 
-Verified prompts from detailed first-day tests by independent practitioners.
+Verified prompts from day-one hands-on reviews.
 
 #### 24. Add a Raccoon Scientist Studying the Chart
 
@@ -564,28 +567,27 @@ add a raccoon scientist studying the chart thoughtfully
 
 ---
 
+<a id="contributing"></a>
+
 ## 🤝 Contributing
 
-Launch week is when the best prompts get written — help capture them. Requirements:
+Launch week is when the best prompts get written. If you find a real prompt with its source post and render, please open a PR: the full rules and the `data/prompts.json` schema are in [CONTRIBUTING.md](CONTRIBUTING.md). Links are re-verified before merge, and any original author can request removal via an issue.
 
-1. **Verbatim prompt text** (any language) — no paraphrasing.
-2. **Named original author** + link to the source post (X preferred; Reddit, blogs, shared ChatGPT prompt links all fine).
-3. **At least one real render** from that source, hot-linked from the original URL.
-4. Add it to `data/prompts.json` (schema documented in [CONTRIBUTING.md](CONTRIBUTING.md)) and mirror it in `README.md`.
-
-Links are re-verified before merge; entries are removed on the original author's request.
+<a id="more-resources"></a>
 
 ## 🔗 More GPT Image 2.5 Resources
 
 - [OpenAI announcement](https://openai.com/index/introducing-chatgpt-images-2-5/) · [Image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) · [GPT-Image-2.5 on fal](https://fal.ai/models/openai/gpt-image-2.5/flare/text-to-image)
-- [YouMind prompt collections](https://youmind.com/gpt-image-2-prompts) — 17k+ X-sourced prompts (GPT Image 2 era)
-- [tosea.ai evidence tracker](https://tosea.ai/blog/gpt-image-2-5-or-3-evidence-tracker) — pre-launch fact trail for 2.5
-- [LaplaceYoung/awesome-gpt-image-2.5](https://github.com/LaplaceYoung/awesome-gpt-image-2.5) — official launch stills with clearly-labeled reconstruction prompts
-- [stretchcloud/awesome-gpt-image-prompt-2.5](https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5) — 2,383 design-spec prompts (single vendor, not community-sourced)
+- [YouMind prompt collections](https://youmind.com/gpt-image-2-prompts): 17k+ X-sourced prompts (GPT Image 2 era)
+- [tosea.ai evidence tracker](https://tosea.ai/blog/gpt-image-2-5-or-3-evidence-tracker): pre-launch fact trail for 2.5
+- [LaplaceYoung/awesome-gpt-image-2.5](https://github.com/LaplaceYoung/awesome-gpt-image-2.5): official launch stills with clearly-labeled reconstruction prompts
+- [stretchcloud/awesome-gpt-image-prompt-2.5](https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5): 2,383 design-spec prompts (single vendor, not community-sourced)
+
+<a id="license"></a>
 
 ## ⚖️ License & Attribution
 
-- Repository structure and curation: **MIT** — see [LICENSE](LICENSE).
+- Repository structure and curation: **MIT**, see [LICENSE](LICENSE).
 - Official example prompts are from OpenAI's published documentation (© OpenAI), quoted for reference.
 - **Community prompts and result images remain the property of their original creators**, credited inline and linked to the source post. Included as educational curation with attribution; removed on request.
 
