@@ -438,8 +438,7 @@
     "source_type": "x-post",
     "published_at": "2026-09-08",
     "images": [
-      "https://pbs.twimg.com/media/HRuPMimW4AAw2GK.jpg",
-      "https://pbs.twimg.com/media/HRuPMi9a0AAN9uY.jpg"
+      "https://pbs.twimg.com/media/HRuPMimW4AAw2GK.jpg"
     ],
     "model_note": null,
     "notes": "Prompt 1 of 2 from the same post — author notes 2.5 sometimes adds text nobody asked for.",
@@ -458,7 +457,6 @@
     "source_type": "x-post",
     "published_at": "2026-09-08",
     "images": [
-      "https://pbs.twimg.com/media/HRuPMimW4AAw2GK.jpg",
       "https://pbs.twimg.com/media/HRuPMi9a0AAN9uY.jpg"
     ],
     "model_note": null,

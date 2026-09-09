@@ -591,8 +591,6 @@ a red dragon curled around the tower of a castle on a hill
 
 <a href="https://x.com/GaelBreton/status/2097427507712528468"><img src="https://pbs.twimg.com/media/HRuPMimW4AAw2GK.jpg" alt="Cyberpunk Portrait (stray-text quirk test) — source render from the source" width="560"></a>
 
-<img src="https://pbs.twimg.com/media/HRuPMi9a0AAN9uY.jpg" width="320">
-
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
 ```text
@@ -607,9 +605,7 @@ my portrait in cyberpunk
 
 #### 23. Yorkie Playing With His Ball in Budapest
 
-<a href="https://x.com/GaelBreton/status/2097427507712528468"><img src="https://pbs.twimg.com/media/HRuPMimW4AAw2GK.jpg" alt="Yorkie Playing With His Ball in Budapest — source render from the source" width="560"></a>
-
-<img src="https://pbs.twimg.com/media/HRuPMi9a0AAN9uY.jpg" width="320">
+<a href="https://x.com/GaelBreton/status/2097427507712528468"><img src="https://pbs.twimg.com/media/HRuPMi9a0AAN9uY.jpg" alt="Yorkie Playing With His Ball in Budapest — source render from the source" width="560"></a>
 
 <details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
 
