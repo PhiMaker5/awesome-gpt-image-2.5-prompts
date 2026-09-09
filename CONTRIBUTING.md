@@ -1,60 +1,72 @@
 # Contributing to Awesome GPT Image 2.5 Prompts
 
-Thanks for helping grow this collection! The goal is a library of prompts that
-is **verifiable**: every entry can be traced back to the person who wrote it and
-the post it came from.
+Thanks for helping capture the GPT Image 2.5 prompt corpus! This repo only
+accepts entries that can be **traced back to a named source** — that is what
+makes it useful as the model's prompt library grows.
+
+## What we accept
+
+| Group | Source type | Example |
+|---|---|---|
+| `official` | OpenAI docs / official accounts | The [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) examples |
+| `x` | X/Twitter posts (launch window onward) | A creator posting a prompt + their real render |
+| `hands-on` | Published first-party write-ups | Blog posts with exact prompts and results |
 
 ## Submission requirements
 
 A pull request is accepted only if the entry includes **all** of the following:
 
-1. **Full prompt text** — copied verbatim from the source. Any language is fine
-   (English, Japanese, Chinese, …); do not translate or "clean up" the original.
-2. **Original author's handle** and a **working link to the source post**
-   (X/Twitter preferred; Reddit, Xiaohongshu, etc. also accepted).
-3. **At least one real render** from that post, hot-linked from the original
-   image URL. Do not re-generate a lookalike image and present it as the
-   author's example.
-4. **Category + short English title** — see the categories in `README.md`.
+1. **Full prompt text**, copied verbatim from the source. Any language is fine
+   (English, Japanese, Chinese, …); never translate or "clean up" the original.
+2. **Named original author** and a **working link to the source post** —
+   an X/Twitter status is ideal; Reddit posts, blogs, and shared ChatGPT
+   prompt links also work. No anonymous screenshots.
+3. **At least one real render** from that source, hot-linked from the original
+   image URL (e.g. `pbs.twimg.com/media/...`). Do **not** re-generate a
+   lookalike and present it as the source's example.
+4. **Title (short English), group, and category** — see `data/prompts.json`.
 
 ## How to add an entry
 
-1. Append a new object to `data/prompts.json` following the existing schema:
+Append a new object to `data/prompts.json` following this schema:
 
-   ```json
-   {
-     "id": 64,
-     "title": "Short English Title",
-     "category": "portrait",
-     "language": "en",
-     "prompt": "Full verbatim prompt text…",
-     "author": "handle",
-     "author_url": "https://x.com/handle",
-     "source_url": "https://x.com/handle/status/…",
-     "tester": null,
-     "tester_url": null,
-     "images": ["https://pbs.twimg.com/media/….jpg"],
-     "source_verified": true
-   }
-   ```
+```json
+{
+  "id": 25,
+  "title": "Short English Title",
+  "group": "x",
+  "category": "Free-form short tag, e.g. Quirk tests",
+  "language": "en",
+  "prompt": "Full verbatim prompt text…",
+  "author": "@handle or OpenAI or Author Name",
+  "author_url": "https://x.com/handle",
+  "source_url": "https://x.com/handle/status/…",
+  "source_type": "x-post",
+  "published_at": "2026-09-09",
+  "images": ["https://pbs.twimg.com/media/….jpg"],
+  "model_note": null,
+  "notes": "optional context (input image needed, comparison set, …)",
+  "source_verified": true
+}
+```
 
-2. Mirror the entry in `README.md` under the matching category, keeping the
-   existing entry format (linked preview image, collapsible prompt, credit line,
-   `---` separator) and the running entry number.
-3. Confirm the source link resolves and the image URL returns HTTP 200.
+Then mirror the entry in `README.md` under the matching group, keeping the
+existing entry format (linked preview image, collapsible prompt, credit line,
+`---` separator) and the running entry number.
 
 ## Ground rules
 
 - **No unattributed content.** If you can't find who originally wrote a prompt,
   don't submit it.
+- **No reverse-engineered or "reconstructed" prompts** presented as community
+  prompts — other repos do that; this one doesn't.
 - **No NSFW, deceptive, or impersonation-ready content** (e.g. real people in
   fabricated situations).
-- **Respect takedowns.** Any original author may ask for removal via issue —
-  we action these quickly, no questions asked.
-- One entry per pull request keeps review fast, but small batches are fine.
+- **Respect takedowns.** Any original author may request removal via an issue —
+  actioned quickly, no questions asked.
 
 ## Review process
 
-A maintainer checks that the tweet/post exists, the handle matches, the images
-load, and the prompt text matches the source. Entries failing verification are
-closed with a reason.
+A maintainer verifies that the source post exists, the handle/author matches,
+the images load, and the prompt text matches the source. Entries failing
+verification are closed with a reason.
