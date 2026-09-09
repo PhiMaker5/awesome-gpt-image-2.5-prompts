@@ -23,7 +23,9 @@ A pull request is accepted only if the entry includes **all** of the following:
    prompt links also work. No anonymous screenshots.
 3. **At least one real render** from that source, hot-linked from the original
    image URL (e.g. `pbs.twimg.com/media/...`). Do **not** re-generate a
-   lookalike and present it as the source's example.
+   lookalike and present it as the source's example. If the post contains
+   several prompts, include only the render(s) your entry's prompt actually
+   produced, one entry per prompt.
 4. **Title (short English), group, and category** — see `data/prompts.json`.
 
 ## How to add an entry
@@ -68,5 +70,9 @@ existing entry format (linked preview image, collapsible prompt, credit line,
 ## Review process
 
 A maintainer verifies that the source post exists, the handle/author matches,
-the images load, and the prompt text matches the source. Entries failing
-verification are closed with a reason.
+the images load, and the prompt text matches the source. For posts containing
+several prompts, the maintainer also opens the post and checks the images one
+by one: each entry must show only the render its own prompt produced. X's
+embed and syndication APIs do not expose which media belongs to which prompt,
+so this cannot be verified from metadata alone. Entries failing verification
+are closed with a reason.
