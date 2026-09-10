@@ -482,5 +482,368 @@
     "model_note": "gpt-image-2.5-sunburst",
     "notes": "First image is the input chart, second is the 2.5 result. Run via his openai_image.py CLI with -m gpt-image-2.5-sunburst.",
     "source_verified": true
+  },
+  {
+    "id": 25,
+    "title": "Japanese Woman with Tanuki-Like Face at Night",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet",
+    "author": "@AI_money_club",
+    "author_url": "https://x.com/AI_money_club",
+    "source_url": "https://x.com/AI_money_club/status/2096921585076605167",
+    "source_type": "x-post",
+    "published_at": "2026-09-07",
+    "images": [
+      "https://pbs.twimg.com/media/HRnC4P3asAEA556.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 987 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 26,
+    "title": "Iconic Structure Miniature Diorama",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2095336325977444847",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRQhRqibwAA03l5.jpg",
+      "https://pbs.twimg.com/media/HRQhRqpbYAA1Ewm.jpg",
+      "https://pbs.twimg.com/media/HRQhRqjaoAAcElO.jpg",
+      "https://pbs.twimg.com/media/HRQhRqkaYAAs4u_.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 443 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 27,
+    "title": "Restore Damaged Vintage Portrait",
+    "group": "x",
+    "category": "Precision Editing",
+    "language": "en",
+    "prompt": "Use the uploaded image as the main restoration and identity reference. Convert this severely damaged old portrait into a clean, fully restored modern-looking photo",
+    "author": "@abs_uiux",
+    "author_url": "https://x.com/abs_uiux",
+    "source_url": "https://x.com/abs_uiux/status/2097316540257309161",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRsqRO7X0AAjVfC.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 338 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 28,
+    "title": "Frieren and Fern in a Good Place",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "ja",
+    "prompt": "フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration",
+    "author": "@AItomato2101",
+    "author_url": "https://x.com/AItomato2101",
+    "source_url": "https://x.com/AItomato2101/status/2095362678827151668",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRQ5MOcasAABFC3.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 320 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 29,
+    "title": "Storefront Miniature Diorama",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2095477330059903223",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRShhJ_bcAAdbBz.jpg",
+      "https://pbs.twimg.com/media/HRShhJ4aAAAxBXY.jpg",
+      "https://pbs.twimg.com/media/HRShhJ_a8AEiVyn.jpg",
+      "https://pbs.twimg.com/media/HRShhJ_aIAAXsZT.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 316 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 30,
+    "title": "Vertical Two-Panel Original and Edited Image",
+    "group": "x",
+    "category": "Precision Editing",
+    "language": "en",
+    "prompt": "Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image containing two clearly separated panels stacked vertically. TOP PANEL — ORIGINAL: Keep the uploaded photograph completely unchanged",
+    "author": "@MahnoorAi12",
+    "author_url": "https://x.com/MahnoorAi12",
+    "source_url": "https://x.com/MahnoorAi12/status/2095699083512164544",
+    "source_type": "x-post",
+    "published_at": "2026-09-04",
+    "images": [
+      "https://pbs.twimg.com/media/HRVq4lAbIAAFa2Q.jpg",
+      "https://pbs.twimg.com/media/HRVq4kxa8AAyuki.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 241 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 31,
+    "title": "Candid Portrait in Urban Park",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.",
+    "author": "@Aqsahere_",
+    "author_url": "https://x.com/Aqsahere_",
+    "source_url": "https://x.com/Aqsahere_/status/2095351414524608662",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRQu_OHbAAAW-TS.jpg",
+      "https://pbs.twimg.com/media/HRQu_5paAAA0822.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 237 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 32,
+    "title": "Paris Street Portrait of Young Woman",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric",
+    "author": "@Zoyavelle",
+    "author_url": "https://x.com/Zoyavelle",
+    "source_url": "https://x.com/Zoyavelle/status/2097183799348220253",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRqxi6BakAAJIO8.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 217 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 33,
+    "title": "High-Angle Portrait in Qipao",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
+    "author": "@BubbleBrain",
+    "author_url": "https://x.com/BubbleBrain",
+    "source_url": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRvdLStaoAAAkSy.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 208 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 34,
+    "title": "Vintage Travel Poster of Iconic Structure",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2095774387857392008",
+    "source_type": "x-post",
+    "published_at": "2026-09-04",
+    "images": [
+      "https://pbs.twimg.com/media/HRWvsMfa4AAZ0Gn.jpg",
+      "https://pbs.twimg.com/media/HRWvsMybQAE45wA.jpg",
+      "https://pbs.twimg.com/media/HRWvsMnbUAApK_R.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 158 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 35,
+    "title": "Handcrafted Miniature Food Scene",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2095703211374219472",
+    "source_type": "x-post",
+    "published_at": "2026-09-04",
+    "images": [
+      "https://pbs.twimg.com/media/HRVu9G2bkAAu7GO.jpg",
+      "https://pbs.twimg.com/media/HRVu9G8asAAdB-6.jpg",
+      "https://pbs.twimg.com/media/HRVu9HIbQAAU8Bz.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 136 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 36,
+    "title": "Smartphone Selfie Identity Preservation",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "3:4 vertical ultra-realistic smartphone selfie of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same person.",
+    "author": "@mehvishs25",
+    "author_url": "https://x.com/mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/2096435250935091331",
+    "source_type": "x-post",
+    "published_at": "2026-09-06",
+    "images": [
+      "https://pbs.twimg.com/media/HRgItrpbQAAVizz.jpg",
+      "https://pbs.twimg.com/media/HRgIvduakAAxidN.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 136 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 37,
+    "title": "Minimalist Single-Line Country Art",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Use the uploaded reference as the primary inspiration. Create a 4:5 vertical minimalist collectible art print representing [COUNTRY] through one continuous elegant line. Draw a single uninterrupted hand-drawn line that begins as the recognizable silhouette",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2095405315768627299",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRRgBgObAAA0rCU.jpg",
+      "https://pbs.twimg.com/media/HRRgBgYacAApThF.jpg",
+      "https://pbs.twimg.com/media/HRRgBgOa4AAHyUF.jpg",
+      "https://pbs.twimg.com/media/HRRgBgTagAAzWRg.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 117 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 38,
+    "title": "Cinematic Lifestyle Photo with Identity Preservation",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Create an ultra-photorealistic cinematic lifestyle photograph using the same young East Asian woman from the reference image. Preserve her facial identity, facial structure, hairstyle, skin tone, and overall appearance so she remains unmistakably",
+    "author": "@mehvishs25",
+    "author_url": "https://x.com/mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/2095735662570082344",
+    "source_type": "x-post",
+    "published_at": "2026-09-04",
+    "images": [
+      "https://pbs.twimg.com/media/HRWMcNJbMAAN_th.jpg",
+      "https://pbs.twimg.com/media/HRWMdpiasAASaqw.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 82 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 39,
+    "title": "Photo and Illustration Split Composition",
+    "group": "x",
+    "category": "Layout & Typography",
+    "language": "en",
+    "prompt": "Create one vertical 3:4 composition that combines the uploaded photo with a hand-drawn illustrated version of the same moment. TOP HALF — ORIGINAL PHOTO Keep the uploaded photograph in the upper portion of the canvas, occupying roughly 50%.",
+    "author": "@MahnoorAi12",
+    "author_url": "https://x.com/MahnoorAi12",
+    "source_url": "https://x.com/MahnoorAi12/status/2096479426452365692",
+    "source_type": "x-post",
+    "published_at": "2026-09-06",
+    "images": [
+      "https://pbs.twimg.com/media/HRgwv1ibIAAAXQv.jpg",
+      "https://pbs.twimg.com/media/HRgwv14bgAATip7.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 81 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 40,
+    "title": "Ancient Chinese Fashion Photography Grid",
+    "group": "x",
+    "category": "Layout & Typography",
+    "language": "zh",
+    "prompt": "【宋玉穿衣全过程｜宋式闺房】\n\n专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。",
+    "author": "@DeepBlueX0",
+    "author_url": "https://x.com/DeepBlueX0",
+    "source_url": "https://x.com/DeepBlueX0/status/2097630845435572490",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRxAt0jbsAAv4cd.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 157 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 41,
+    "title": "Miniature Travel Scene with Landmark",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point. Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a",
+    "author": "@Naiknelofar788",
+    "author_url": "https://x.com/Naiknelofar788",
+    "source_url": "https://x.com/Naiknelofar788/status/2097646788258021837",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg",
+      "https://pbs.twimg.com/media/HRxWoHoa0AARxkv.jpg",
+      "https://pbs.twimg.com/media/HRxWoHpasAAZ4Zd.jpg",
+      "https://pbs.twimg.com/media/HRxWoH1bUAA3U0Y.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 151 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 42,
+    "title": "Cinematic Rain Portrait Collage",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Use the uploaded image as the composition, framing, lighting, rainy atmosphere, facial-expression",
+    "author": "@abs_uiux",
+    "author_url": "https://x.com/abs_uiux",
+    "source_url": "https://x.com/abs_uiux/status/2096571268057207220",
+    "source_type": "x-post",
+    "published_at": "2026-09-06",
+    "images": [
+      "https://pbs.twimg.com/media/HRiEcEqb0AAtNJn.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 71 likes at collection time.",
+    "source_verified": true
   }
 ]

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-24-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-42-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/launch_week-Sep_2026-blue?style=flat-square" alt="Launch week">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ The model is days old, so this list is small on purpose. Every prompt is copied 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (5)](#first-wave-from-x)
+- [🐦 First Wave from X (23)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [🔗 More GPT Image 2.5 Resources](#more-resources)
@@ -527,7 +527,7 @@ Include ONLY this packaging text (verbatim):
 
 ## 🐦 First Wave from X
 
-Real prompts posted on X during the launch window (Sep 3-8, 2026), reproduced verbatim with each author's own result images hot-linked from the original post.
+Real prompts posted on X during the 2.5 launch window and the days since (Sep 2026), reproduced verbatim with each author's own result images hot-linked from the original post.
 
 #### 19. Einstein Handwriting Essay
 
@@ -620,6 +620,338 @@ A yorkie playing with his ball in Budapest
 ---
 
 <a id="hands-on-write-ups"></a>
+
+#### 25. Japanese Woman with Tanuki-Like Face at Night
+
+<a href="https://x.com/AI_money_club/status/2096921585076605167"><img src="https://pbs.twimg.com/media/HRnC4P3asAEA556.jpg" alt="Japanese Woman with Tanuki-Like Face at Night — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Photorealistic natural photo of a completely fictional 20-year-old adult Japanese woman. She has an extremely cute tanuki-like face, a soft round face and cheeks, gentle round eyes, and dark brown hair. At night on a quiet
+```
+
+</details>
+
+👤 **[@AI_money_club](https://x.com/AI_money_club)** · [Source](https://x.com/AI_money_club/status/2096921585076605167) · 2026-09-07 · ℹ️ ❤️ 987 likes at collection time.
+
+---
+
+#### 26. Iconic Structure Miniature Diorama
+
+<a href="https://x.com/Naiknelofar788/status/2095336325977444847"><img src="https://pbs.twimg.com/media/HRQhRqibwAA03l5.jpg" alt="Iconic Structure Miniature Diorama — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRQhRqpbYAA1Ewm.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRQhRqjaoAAcElO.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRQhRqkaYAAs4u_.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a whimsical handcrafted miniature diorama featuring [ICONIC STRUCTURE] as the main focal point. Place the structure in a cozy, highly detailed tiny world with miniature streets, trees, flowers, lamps, benches, small shops, seasonal decorations
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095336325977444847) · 2026-09-03 · ℹ️ ❤️ 443 likes at collection time.
+
+---
+
+#### 27. Restore Damaged Vintage Portrait
+
+<a href="https://x.com/abs_uiux/status/2097316540257309161"><img src="https://pbs.twimg.com/media/HRsqRO7X0AAjVfC.jpg" alt="Restore Damaged Vintage Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded image as the main restoration and identity reference. Convert this severely damaged old portrait into a clean, fully restored modern-looking photo
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2097316540257309161) · 2026-09-08 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 338 likes at collection time.
+
+---
+
+#### 28. Frieren and Fern in a Good Place
+
+<a href="https://x.com/AItomato2101/status/2095362678827151668"><img src="https://pbs.twimg.com/media/HRQ5MOcasAABFC3.jpg" alt="Frieren and Fern in a Good Place — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+フェルン『良い場所ですねフリーレン様』 フリーレン『…そうだね』 SFW illustration
+```
+
+</details>
+
+👤 **[@AItomato2101](https://x.com/AItomato2101)** · [Source](https://x.com/AItomato2101/status/2095362678827151668) · 2026-09-03 · ℹ️ ❤️ 320 likes at collection time.
+
+---
+
+#### 29. Storefront Miniature Diorama
+
+<a href="https://x.com/Naiknelofar788/status/2095477330059903223"><img src="https://pbs.twimg.com/media/HRShhJ_bcAAdbBz.jpg" alt="Storefront Miniature Diorama — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRShhJ4aAAAxBXY.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRShhJ_a8AEiVyn.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRShhJ_aIAAXsZT.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a charming handcrafted miniature diorama featuring [STORE / BRAND NAME] as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095477330059903223) · 2026-09-03 · ℹ️ ❤️ 316 likes at collection time.
+
+---
+
+#### 30. Vertical Two-Panel Original and Edited Image
+
+<a href="https://x.com/MahnoorAi12/status/2095699083512164544"><img src="https://pbs.twimg.com/media/HRVq4lAbIAAFa2Q.jpg" alt="Vertical Two-Panel Original and Edited Image — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRVq4kxa8AAyuki.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded reference photograph as the exact visual source. Create one single vertical 4:5 image containing two clearly separated panels stacked vertically. TOP PANEL — ORIGINAL: Keep the uploaded photograph completely unchanged
+```
+
+</details>
+
+👤 **[@MahnoorAi12](https://x.com/MahnoorAi12)** · [Source](https://x.com/MahnoorAi12/status/2095699083512164544) · 2026-09-04 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 241 likes at collection time.
+
+---
+
+#### 31. Candid Portrait in Urban Park
+
+<a href="https://x.com/Aqsahere_/status/2095351414524608662"><img src="https://pbs.twimg.com/media/HRQu_OHbAAAW-TS.jpg" alt="Candid Portrait in Urban Park — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRQu_5paAAA0822.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A photorealistic candid outdoor portrait of a young woman standing in a peaceful urban park on a sunny afternoon. She has long dark-brown hair styled in a loose low ponytail, with wispy face-framing strands gently falling across her face.
+```
+
+</details>
+
+👤 **[@Aqsahere_](https://x.com/Aqsahere_)** · [Source](https://x.com/Aqsahere_/status/2095351414524608662) · 2026-09-03 · ℹ️ ❤️ 237 likes at collection time.
+
+---
+
+#### 32. Paris Street Portrait of Young Woman
+
+<a href="https://x.com/Zoyavelle/status/2097183799348220253"><img src="https://pbs.twimg.com/media/HRqxi6BakAAJIO8.jpg" alt="Paris Street Portrait of Young Woman — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+High-resolution, natural-light street portrait of a young Asian-looking woman on a Paris-inspired, tree-lined shopping street, captured vertically with a crisp cinematic DSLR/phone-camera aesthetic, warm sunlight, realistic skin and fabric
+```
+
+</details>
+
+👤 **[@Zoyavelle](https://x.com/Zoyavelle)** · [Source](https://x.com/Zoyavelle/status/2097183799348220253) · 2026-09-08 · ℹ️ ❤️ 217 likes at collection time.
+
+---
+
+#### 33. High-Angle Portrait in Qipao
+
+<a href="https://x.com/BubbleBrain/status/2097513469172129825"><img src="https://pbs.twimg.com/media/HRvdLStaoAAAkSy.jpg" alt="High-Angle Portrait in Qipao — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face
+```
+
+</details>
+
+👤 **[@BubbleBrain](https://x.com/BubbleBrain)** · [Source](https://x.com/BubbleBrain/status/2097513469172129825) · 2026-09-09 · ℹ️ ❤️ 208 likes at collection time.
+
+---
+
+#### 34. Vintage Travel Poster of Iconic Structure
+
+<a href="https://x.com/Naiknelofar788/status/2095774387857392008"><img src="https://pbs.twimg.com/media/HRWvsMfa4AAZ0Gn.jpg" alt="Vintage Travel Poster of Iconic Structure — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRWvsMybQAE45wA.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRWvsMnbUAApK_R.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a sophisticated vintage-inspired travel poster featuring [ICONIC STRUCTURE] as the main focal point. Keep the architecture highly recognizable with accurate proportions and distinctive details, but reinterpret it as a stylized hand-painted
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095774387857392008) · 2026-09-04 · ℹ️ ❤️ 158 likes at collection time.
+
+---
+
+#### 35. Handcrafted Miniature Food Scene
+
+<a href="https://x.com/Naiknelofar788/status/2095703211374219472"><img src="https://pbs.twimg.com/media/HRVu9G2bkAAu7GO.jpg" alt="Handcrafted Miniature Food Scene — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRVu9G8asAAdB-6.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRVu9HIbQAAU8Bz.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a charming handcrafted miniature food scene featuring [FOOD / DISH] as the main focal point. Arrange the food beautifully on a simple ceramic plate with tiny complementary ingredients naturally placed around it. Add a small drink, miniature wooden
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095703211374219472) · 2026-09-04 · ℹ️ ❤️ 136 likes at collection time.
+
+---
+
+#### 36. Smartphone Selfie Identity Preservation
+
+<a href="https://x.com/mehvishs25/status/2096435250935091331"><img src="https://pbs.twimg.com/media/HRgItrpbQAAVizz.jpg" alt="Smartphone Selfie Identity Preservation — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRgIvduakAAxidN.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+3:4 vertical ultra-realistic smartphone selfie of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same person.
+```
+
+</details>
+
+👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2096435250935091331) · 2026-09-06 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 136 likes at collection time.
+
+---
+
+#### 37. Minimalist Single-Line Country Art
+
+<a href="https://x.com/Naiknelofar788/status/2095405315768627299"><img src="https://pbs.twimg.com/media/HRRgBgObAAA0rCU.jpg" alt="Minimalist Single-Line Country Art — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRRgBgYacAApThF.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRRgBgOa4AAHyUF.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRRgBgTagAAzWRg.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded reference as the primary inspiration. Create a 4:5 vertical minimalist collectible art print representing [COUNTRY] through one continuous elegant line. Draw a single uninterrupted hand-drawn line that begins as the recognizable silhouette
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095405315768627299) · 2026-09-03 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 117 likes at collection time.
+
+---
+
+#### 38. Cinematic Lifestyle Photo with Identity Preservation
+
+<a href="https://x.com/mehvishs25/status/2095735662570082344"><img src="https://pbs.twimg.com/media/HRWMcNJbMAAN_th.jpg" alt="Cinematic Lifestyle Photo with Identity Preservation — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRWMdpiasAASaqw.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-photorealistic cinematic lifestyle photograph using the same young East Asian woman from the reference image. Preserve her facial identity, facial structure, hairstyle, skin tone, and overall appearance so she remains unmistakably
+```
+
+</details>
+
+👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2095735662570082344) · 2026-09-04 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 82 likes at collection time.
+
+---
+
+#### 39. Photo and Illustration Split Composition
+
+<a href="https://x.com/MahnoorAi12/status/2096479426452365692"><img src="https://pbs.twimg.com/media/HRgwv1ibIAAAXQv.jpg" alt="Photo and Illustration Split Composition — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRgwv14bgAATip7.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create one vertical 3:4 composition that combines the uploaded photo with a hand-drawn illustrated version of the same moment. TOP HALF — ORIGINAL PHOTO Keep the uploaded photograph in the upper portion of the canvas, occupying roughly 50%.
+```
+
+</details>
+
+👤 **[@MahnoorAi12](https://x.com/MahnoorAi12)** · [Source](https://x.com/MahnoorAi12/status/2096479426452365692) · 2026-09-06 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 81 likes at collection time.
+
+---
+
+#### 40. Ancient Chinese Fashion Photography Grid
+
+<a href="https://x.com/DeepBlueX0/status/2097630845435572490"><img src="https://pbs.twimg.com/media/HRxAt0jbsAAv4cd.jpg" alt="Ancient Chinese Fashion Photography Grid — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+【宋玉穿衣全过程｜宋式闺房】
+
+专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。
+```
+
+</details>
+
+👤 **[@DeepBlueX0](https://x.com/DeepBlueX0)** · [Source](https://x.com/DeepBlueX0/status/2097630845435572490) · 2026-09-09 · ℹ️ ❤️ 157 likes at collection time.
+
+---
+
+#### 41. Miniature Travel Scene with Landmark
+
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg" alt="Miniature Travel Scene with Landmark — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRxWoHoa0AARxkv.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRxWoHpasAAZ4Zd.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRxWoH1bUAA3U0Y.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point. Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2097646788258021837) · 2026-09-09 · ℹ️ ❤️ 151 likes at collection time.
+
+---
+
+#### 42. Cinematic Rain Portrait Collage
+
+<a href="https://x.com/abs_uiux/status/2096571268057207220"><img src="https://pbs.twimg.com/media/HRiEcEqb0AAtNJn.jpg" alt="Cinematic Rain Portrait Collage — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded image as the composition, framing, lighting, rainy atmosphere, facial-expression
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2096571268057207220) · 2026-09-06 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 71 likes at collection time.
+
+---
 
 ## 🔬 Hands-On Write-ups
 
