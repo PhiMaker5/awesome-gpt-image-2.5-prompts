@@ -1,9 +1,9 @@
 <h1 align="center">🎨 Awesome GPT Image 2.5 Prompts</h1>
 
 <p align="center">
-  <strong>Verbatim, source-linked prompts for GPT Image 2.5</strong>,<br>
+  <strong>Proven prompts for GPT Image 2.5</strong>,<br>
   OpenAI's newest image model (<code>gpt-image-2.5-flare</code> / <code>gpt-image-2.5-sunburst</code>, shipped with ChatGPT Images 2.5 on Sep 8, 2026).<br>
-  Every prompt is copied word-for-word from its named source, with the original render attached.
+  Each prompt comes with its original render and source link, so you can see the result before you run it.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 GPT Image 2.5 launched on September 8, 2026 ([announcement](https://openai.com/index/introducing-chatgpt-images-2-5/)). It renders sharper detail, edits a scoped region without touching the rest of the image, keeps subjects consistent across turns, and cuts latency roughly in half. The API ships two models: `gpt-image-2.5-flare` (fast, default) and `gpt-image-2.5-sunburst` (precision edits).
 
-Every prompt here is copied word-for-word from a named source — OpenAI's official guide, a real post on X, or a published hands-on write-up — and every result image is the actual render from that source, hot-linked. Nothing is paraphrased, regenerated, or "reverse-engineered." The collection is updated daily.
+Every prompt comes from a named source — OpenAI's official guide, a real post on X, or a published hands-on write-up — and every result image is the actual render from that source, so you know exactly what each prompt produces before you run it. The collection is updated daily.
 
 <a id="how-to-use"></a>
 
@@ -47,7 +47,7 @@ Every prompt here is copied word-for-word from a named source — OpenAI's offic
 
 ## 🏛️ Official Examples
 
-Verbatim example prompts from OpenAI's own [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique: style control, exact text rendering, layout, scoped editing, or multi-turn consistency. Shown renders are OpenAI's own, hot-linked from the same page; for edit prompts the input image is shown first.
+Example prompts from OpenAI's official [image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting). Each one demonstrates a technique: style control, exact text rendering, layout, scoped editing, or multi-turn consistency. Shown renders are OpenAI's own, hot-linked from the same page; for edit prompts the input image is shown first.
 
 #### 1. Photorealistic Sailor on a Fishing Boat
 
@@ -526,7 +526,7 @@ Include ONLY this packaging text (verbatim):
 
 ## 🐦 First Wave from X
 
-Real prompts posted on X during the 2.5 launch window and the days since (Sep 2026), reproduced verbatim with each author's own result images hot-linked from the original post.
+Prompts posted on X during the 2.5 launch window and the days since (Sep 2026), each with the author's original result images linked from the post.
 
 #### 19. Einstein Handwriting Essay
 
