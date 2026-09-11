@@ -61,18 +61,13 @@ existing entry format (linked preview image, collapsible prompt, credit line,
 - **No unattributed content.** If you can't find who originally wrote a prompt,
   don't submit it.
 - **No reverse-engineered or "reconstructed" prompts** presented as community
-  prompts — other repos do that; this one doesn't.
+  prompts.
 - **No NSFW, deceptive, or impersonation-ready content** (e.g. real people in
   fabricated situations).
 - **Respect takedowns.** Any original author may request removal via an issue —
   actioned quickly, no questions asked.
 
-## Review process
+## Review
 
-A maintainer verifies that the source post exists, the handle/author matches,
-the images load, and the prompt text matches the source. For posts containing
-several prompts, the maintainer also opens the post and checks the images one
-by one: each entry must show only the render its own prompt produced. X's
-embed and syndication APIs do not expose which media belongs to which prompt,
-so this cannot be verified from metadata alone. Entries failing verification
-are closed with a reason.
+Maintainers review every pull request. Submissions missing any requirement
+above are closed with a reason.

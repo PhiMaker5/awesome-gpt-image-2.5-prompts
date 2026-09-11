@@ -21,7 +21,7 @@
 
 GPT Image 2.5 launched on September 8, 2026 ([announcement](https://openai.com/index/introducing-chatgpt-images-2-5/)). It renders sharper detail, edits a scoped region without touching the rest of the image, keeps subjects consistent across turns, and cuts latency roughly in half. The API ships two models: `gpt-image-2.5-flare` (fast, default) and `gpt-image-2.5-sunburst` (precision edits).
 
-Every prompt here is copied word-for-word from a named source — OpenAI's official guide, a real post on X, or a published hands-on write-up — and every result image is the actual render from that source, hot-linked. Nothing is paraphrased, regenerated, or "reverse-engineered." The collection is refreshed daily by an automated pipeline; where each day's batch comes from is documented under [Sources](#sources).
+Every prompt here is copied word-for-word from a named source — OpenAI's official guide, a real post on X, or a published hands-on write-up — and every result image is the actual render from that source, hot-linked. Nothing is paraphrased, regenerated, or "reverse-engineered." The collection is updated daily.
 
 <a id="how-to-use"></a>
 
@@ -40,9 +40,7 @@ Every prompt here is copied word-for-word from a named source — OpenAI's offic
 - [🏛️ Official Examples (18)](#official-examples)
 - [🐦 First Wave from X (38)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
-- [📡 Sources](#sources)
 - [🤝 Contributing](#contributing)
-- [🔗 More GPT Image 2.5 Resources](#more-resources)
 - [⚖️ License & Attribution](#license)
 
 <a id="official-examples"></a>
@@ -1280,36 +1278,9 @@ add a raccoon scientist studying the chart thoughtfully
 
 <a id="contributing"></a>
 
-<a id="sources"></a>
-
-## 📡 Sources
-
-Where each day's batch comes from. Aggregators and indexes are treated as **discovery only**: every candidate is re-verified against the original post (verbatim prompt text, live author handle, real render) before it enters this collection.
-
-| Source | Role | Notes |
-|---|---|---|
-| [OpenAI — Image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) | Official examples | Quoted verbatim from the docs |
-| X/Twitter search (EN / JA / ZH) | Primary source | Prompt text recovered live via the syndication API |
-| [AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts) | Structured index | Largest 2.5 corpus with `source_link` per entry; author names can be misattributed, so the live tweet is always authoritative |
-| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | Discovery index | Mixed GPT Image 2 / 2.5; only entries whose original post is 2.5-era are adopted |
-| [youmind prompt collections](https://youmind.com/gpt-image-2-prompts) · [tosea.ai/prompts](https://tosea.ai/prompts) · [freegpt.im](https://freegpt.im/) | Periodic recheck | Watched for newly launched 2.5 sections with per-entry credit |
-| Hands-on write-ups (Tom's Guide, Morphic, personal blogs) | Hands-on group | Only with complete verbatim prompts and a named author |
-
----
-
 ## 🤝 Contributing
 
-Found a real prompt with its source post and render? Please open a PR: the full rules and the `data/prompts.json` schema are in [CONTRIBUTING.md](CONTRIBUTING.md). Links are re-verified before merge, and any original author can request removal via an issue.
-
-<a id="more-resources"></a>
-
-## 🔗 More GPT Image 2.5 Resources
-
-- [OpenAI announcement](https://openai.com/index/introducing-chatgpt-images-2-5/) · [Image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) · [GPT-Image-2.5 on fal](https://fal.ai/models/openai/gpt-image-2.5/flare/text-to-image)
-- [YouMind prompt collections](https://youmind.com/gpt-image-2-prompts): 17k+ X-sourced prompts (GPT Image 2 era)
-- [tosea.ai evidence tracker](https://tosea.ai/blog/gpt-image-2-5-or-3-evidence-tracker): pre-launch fact trail for 2.5
-- [LaplaceYoung/awesome-gpt-image-2.5](https://github.com/LaplaceYoung/awesome-gpt-image-2.5): official launch stills with clearly-labeled reconstruction prompts
-- [stretchcloud/awesome-gpt-image-prompt-2.5](https://github.com/stretchcloud/awesome-gpt-image-prompt-2.5): 2,383 design-spec prompts (single vendor, not community-sourced)
+Found a real prompt with its source post and render? Please open a PR: the full rules and the `data/prompts.json` schema are in [CONTRIBUTING.md](CONTRIBUTING.md). Every entry keeps its original source link, and any original author can request removal via an issue.
 
 <a id="license"></a>
 
