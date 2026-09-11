@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-42-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-57-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/launch_week-Sep_2026-blue?style=flat-square" alt="Launch week">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ The model is days old, so this list is small on purpose. Every prompt is copied 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (23)](#first-wave-from-x)
+- [🐦 First Wave from X (38)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [🔗 More GPT Image 2.5 Resources](#more-resources)
@@ -950,6 +950,308 @@ Use the uploaded image as the composition, framing, lighting, rainy atmosphere, 
 </details>
 
 👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2096571268057207220) · 2026-09-06 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 71 likes at collection time.
+
+---
+
+#### 43. K-Pop Concert Stage Editorial Photography
+
+<a href="https://x.com/AIVideoHub_/status/2095823778794369489"><img src="https://pbs.twimg.com/media/HRXcnCGa0AA7kos.jpg" alt="K-Pop Concert Stage Editorial Photography — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRXcnCGbkAAeg3Y.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，真实演唱会现场抓拍 × K-pop 女团舞台 × 高级舞台 Editorial × 电影级真人摄影。一位 20 岁、明确成年的韩国女团成员，身高约 1.76
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2095823778794369489) · 2026-09-04 · ℹ️ ❤️ 391 likes at collection time.
+
+---
+
+#### 44. Night Rooftop Stairs Editorial Fashion Shot
+
+<a href="https://x.com/AIVideoHub_/status/2095884267255644605"><img src="https://pbs.twimg.com/media/HRYToJNaEAAbtQs.jpg" alt="Night Rooftop Stairs Editorial Fashion Shot — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRYToJIagAIYU-w.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRYToJKbcAAIip6.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，超写实真人摄影 × 夜晚天台楼梯时尚 Editorial × 都市夜景 × 冷调电影感。上传图片仅作为动作、身体方向与构图参考，保留腿部位置、身体重心、手部支撑方式及人物与摄影机的空间关系，不复制参考图的人物身份、服装与环境。
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2095884267255644605) · 2026-09-04 · ℹ️ ❤️ 266 likes at collection time.
+
+---
+
+#### 45. Two Women in Qipao in Chinese Garden
+
+<a href="https://x.com/AIVideoHub_/status/2096404303959503344"><img src="https://pbs.twimg.com/media/HRfsmJpboAAd8Xj.jpg" alt="Two Women in Qipao in Chinese Garden — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRfsmJraYAE6nLb.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，超写实真人摄影 × 新中式旗袍 Editorial × 江南园林 × 清雅奢华电影感。
+
+两位相貌明显不同的 20–22 岁、明确成年的漂亮东亚女性并肩坐在宁静的传统中式园林池塘旁深色木制长椅上。两人身高均约 1.75
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2096404303959503344) · 2026-09-06 · ℹ️ ❤️ 230 likes at collection time.
+
+---
+
+#### 46. Close-Up Portrait of an East Asian Woman in Wuxia Style
+
+<a href="https://x.com/AIVideoHub_/status/2095524016295666021"><img src="https://pbs.twimg.com/media/HRTL-vCbwAAmc7T.jpg" alt="Close-Up Portrait of an East Asian Woman in Wuxia Style — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRTL-u1bsAA2yH_.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，近距离半身构图，超写实真人摄影 × 东方武侠电影 × 极端广角透视 × 冷艳高级 Editorial。一位 20–23 岁、明确成年的漂亮东亚女性，身材高挑纤细，头部偏小、脸型小巧，肩颈舒展，腰身纤细。胸部视觉约为自然 E
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2095524016295666021) · 2026-09-03 · ℹ️ ❤️ 224 likes at collection time.
+
+---
+
+#### 47. Painterly Landscape with Dramatic Cumulus Clouds
+
+<a href="https://x.com/churvikv/status/2095472478340468762"><img src="https://pbs.twimg.com/media/HRSdBobaEAAo92C.jpg" alt="Painterly Landscape with Dramatic Cumulus Clouds — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A painterly, highly detailed landscape scene with a luminous blue summer sky dominated by towering white cumulus clouds, rendered in a romantic fine-art campaign style. The hero is the dramatic cloud formation and its
+```
+
+</details>
+
+👤 **[@churvikv](https://x.com/churvikv)** · [Source](https://x.com/churvikv/status/2095472478340468762) · 2026-09-03 · ℹ️ ❤️ 150 likes at collection time.
+
+---
+
+#### 48. Gentle Shinigami Guiding Souls
+
+<a href="https://x.com/FufuJiangshi/status/2097090034424021024"><img src="https://pbs.twimg.com/media/HRmOmF1aMAA_D1L.jpg" alt="Gentle Shinigami Guiding Souls — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+死を迎えに来るのではなく、
+迷える魂を送り届けるために――。
+「迎えに来た死神」
+生と死の境界に立つ少女。
+冷たい夜の霧の中、
+彼女が差し出す手は終わりではなく、
+静かな別れへの道標。
+死もまた、ひとつの優しい旅立ちなのかもしれない。
+```
+
+</details>
+
+👤 **[@FufuJiangshi](https://x.com/FufuJiangshi)** · [Source](https://x.com/FufuJiangshi/status/2097090034424021024) · 2026-09-07 · ℹ️ ❤️ 91 likes at collection time.
+
+---
+
+#### 49. 1980s Portrait from Facial Reference
+
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1utPuasAABAU8.jpg" alt="1980s Portrait from Facial Reference — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR1uuHFa4AAcEvE.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR1uuxpaMAAu8lw.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR1uvdMbYAIpAQy.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high
+```
+
+</details>
+
+👤 **[@Goodmanprotocol](https://x.com/Goodmanprotocol)** · [Source](https://x.com/Goodmanprotocol/status/2097954772586557873) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 177 likes at collection time.
+
+---
+
+#### 50. Portrait of Woman in Dark Ritual Shrine
+
+<a href="https://x.com/nicebabycat/status/2096632565788762390"><img src="https://pbs.twimg.com/media/HRi8M73aIAAR6Dd.png" alt="Portrait of Woman in Dark Ritual Shrine — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRi8M73aEAAgY7J.png" width="320">
+
+<img src="https://pbs.twimg.com/media/HRi8M75asAA15fF.png" width="320">
+
+<img src="https://pbs.twimg.com/media/HRi8M75bMAAQ7dZ.png" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 photorealistic cinematic portrait of an adult East Asian woman inside a dark ancient ritual shrine, long messy black hair with wet loose strands framing her face, soft smoky eye makeup, flushed skin, glossy
+```
+
+</details>
+
+👤 **[@nicebabycat](https://x.com/nicebabycat)** · [Source](https://x.com/nicebabycat/status/2096632565788762390) · 2026-09-06 · ℹ️ ❤️ 70 likes at collection time.
+
+---
+
+#### 51. Bride's Dream At The Boundary
+
+<a href="https://x.com/FufuJiangshi/status/2096937526527422714"><img src="https://pbs.twimg.com/media/HRma2O7bkAA3iKD.jpg" alt="Bride's Dream At The Boundary — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+生と死の境界にいる少女にも、
+花嫁になる夢を見る朝がある。
+「幻想花嫁」
+人ではない彼女が、
+初めて自分自身の幸せを願った瞬間。
+鏡に映るのは、
+死者でも怪異でもない――
+ただ一人の少女の姿。
+```
+
+</details>
+
+👤 **[@FufuJiangshi](https://x.com/FufuJiangshi)** · [Source](https://x.com/FufuJiangshi/status/2096937526527422714) · 2026-09-07 · ℹ️ ❤️ 69 likes at collection time.
+
+---
+
+#### 52. Stop Motion Claymation Charmander Hatching
+
+<a href="https://x.com/cheerselflin/status/2097903279506125119"><img src="https://pbs.twimg.com/media/HR0_qR9XAAgQWW9.jpg" alt="Stop Motion Claymation Charmander Hatching — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+我要做stop motion animation
+粘土风格
+小火龙从蛋里面孵化成功，破壳而出，然后喷火。 规划好，输出36张图，然后合并在一起输出3s gif。
+```
+
+</details>
+
+👤 **[@cheerselflin](https://x.com/cheerselflin)** · [Source](https://x.com/cheerselflin/status/2097903279506125119) · 2026-09-10 · ℹ️ ❤️ 303 likes at collection time.
+
+---
+
+#### 53. Photorealistic Editorial Portrait of East Asian Woman
+
+<a href="https://x.com/VIBEQUIRKLABS/status/2097099987809456636"><img src="https://pbs.twimg.com/media/HRplK1VbkAAusrS.jpg" alt="Photorealistic Editorial Portrait of East Asian Woman — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRplK1Ua8AA0oPp.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRplK1Sa0AAi5Oj.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRplK1Pa0AAzsiL.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, small near-round oval face with full low cheeks, large level warm gray-brown round eyes, short low-bridge nose, small even rose-pink lips, luminous
+```
+
+</details>
+
+👤 **[@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS)** · [Source](https://x.com/VIBEQUIRKLABS/status/2097099987809456636) · 2026-09-07 · ℹ️ ❤️ 68 likes at collection time.
+
+---
+
+#### 54. Vertical Candid Portrait of Woman
+
+<a href="https://x.com/boniusex/status/2095469801179369880"><img src="https://pbs.twimg.com/media/HRSaGPZbQAAQ_-v.jpg" alt="Vertical Candid Portrait of Woman — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRSaIwYaIAAruVz.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRSaVqKbMAALS2C.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRSaXGCa8AAtAHs.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Vertical 9:16 candid photograph of an adult East Asian woman in her mid twenties with very fair natural skin, a slim tall figure, long slightly messy black hair, soft oval face, clear dark eyes
+```
+
+</details>
+
+👤 **[@boniusex](https://x.com/boniusex)** · [Source](https://x.com/boniusex/status/2095469801179369880) · 2026-09-03 · ℹ️ ❤️ 66 likes at collection time.
+
+---
+
+#### 55. Vintage Travel Postage Stamp Artwork
+
+<a href="https://x.com/Naiknelofar788/status/2095856946075283552"><img src="https://pbs.twimg.com/media/HRX6xxZacAEMaHt.jpg" alt="Vintage Travel Postage Stamp Artwork — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRX6xxrawAAQ9ax.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRX6xxZacAA80uh.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a sophisticated vintage travel postage-stamp artwork representing [COUNTRY]. Feature the country’s most iconic landmark as the main focal point, surrounded by 3–5 carefully chosen elements that instantly represent the country — landscape, traditional
+```
+
+</details>
+
+👤 **[@Naiknelofar788](https://x.com/Naiknelofar788)** · [Source](https://x.com/Naiknelofar788/status/2095856946075283552) · 2026-09-04 · ℹ️ ❤️ 65 likes at collection time.
+
+---
+
+#### 56. Cinematic Portrait on a Subway Platform
+
+<a href="https://x.com/weiinberg/status/2097539717973627013"><img src="https://pbs.twimg.com/media/HRv1P34a4AEJmNU.jpg" alt="Cinematic Portrait on a Subway Platform — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train.
+```
+
+</details>
+
+👤 **[@weiinberg](https://x.com/weiinberg)** · [Source](https://x.com/weiinberg/status/2097539717973627013) · 2026-09-09 · ℹ️ ❤️ 76 likes at collection time.
+
+---
+
+#### 57. Candid Lifestyle Portrait From Reference
+
+<a href="https://x.com/mehvishs25/status/2096850534150164490"><img src="https://pbs.twimg.com/media/HRmCbNbbIAMekL3.jpg" alt="Candid Lifestyle Portrait From Reference — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRmCcGBaUAAAWsv.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a high-quality, ultra-photorealistic candid lifestyle portrait of the same adult woman from the uploaded reference image. Use the reference as the single source of truth for her identity. Preserve her facial structure, proportions, natural
+```
+
+</details>
+
+👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2096850534150164490) · 2026-09-07 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 63 likes at collection time.
 
 ---
 
