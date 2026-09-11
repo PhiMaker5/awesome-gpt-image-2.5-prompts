@@ -1,15 +1,15 @@
 <h1 align="center">🎨 Awesome GPT Image 2.5 Prompts</h1>
 
 <p align="center">
-  <strong>24 verbatim, source-linked prompts for GPT Image 2.5</strong>,<br>
+  <strong>Verbatim, source-linked prompts for GPT Image 2.5</strong>,<br>
   OpenAI's newest image model (<code>gpt-image-2.5-flare</code> / <code>gpt-image-2.5-sunburst</code>, shipped with ChatGPT Images 2.5 on Sep 8, 2026).<br>
-  Every prompt is copied word-for-word from its named source: OpenAI's official guide or real launch-week posts on X.
+  Every prompt is copied word-for-word from its named source, with the original render attached.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/prompts-57-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
-  <img src="https://img.shields.io/badge/launch_week-Sep_2026-blue?style=flat-square" alt="Launch week">
+  <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
 </p>
 
@@ -21,7 +21,7 @@
 
 GPT Image 2.5 launched on September 8, 2026 ([announcement](https://openai.com/index/introducing-chatgpt-images-2-5/)). It renders sharper detail, edits a scoped region without touching the rest of the image, keeps subjects consistent across turns, and cuts latency roughly in half. The API ships two models: `gpt-image-2.5-flare` (fast, default) and `gpt-image-2.5-sunburst` (precision edits).
 
-The model is days old, so this list is small on purpose. Every prompt is copied word-for-word from a named source, either OpenAI's official guide or a real launch-week post on X, and every result image is the actual render from that source. Nothing is paraphrased, regenerated, or "reverse-engineered." New entries land as launch-week prompts surface.
+Every prompt here is copied word-for-word from a named source — OpenAI's official guide, a real post on X, or a published hands-on write-up — and every result image is the actual render from that source, hot-linked. Nothing is paraphrased, regenerated, or "reverse-engineered." The collection is refreshed daily by an automated pipeline; where each day's batch comes from is documented under [Sources](#sources).
 
 <a id="how-to-use"></a>
 
@@ -40,6 +40,7 @@ The model is days old, so this list is small on purpose. Every prompt is copied 
 - [🏛️ Official Examples (18)](#official-examples)
 - [🐦 First Wave from X (38)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
+- [📡 Sources](#sources)
 - [🤝 Contributing](#contributing)
 - [🔗 More GPT Image 2.5 Resources](#more-resources)
 - [⚖️ License & Attribution](#license)
@@ -1279,9 +1280,26 @@ add a raccoon scientist studying the chart thoughtfully
 
 <a id="contributing"></a>
 
+<a id="sources"></a>
+
+## 📡 Sources
+
+Where each day's batch comes from. Aggregators and indexes are treated as **discovery only**: every candidate is re-verified against the original post (verbatim prompt text, live author handle, real render) before it enters this collection.
+
+| Source | Role | Notes |
+|---|---|---|
+| [OpenAI — Image prompting guide](https://developers.openai.com/api/docs/guides/image-prompting) | Official examples | Quoted verbatim from the docs |
+| X/Twitter search (EN / JA / ZH) | Primary source | Prompt text recovered live via the syndication API |
+| [AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts) | Structured index | Largest 2.5 corpus with `source_link` per entry; author names can be misattributed, so the live tweet is always authoritative |
+| [ZeroLu/awesome-gpt-image](https://github.com/ZeroLu/awesome-gpt-image) | Discovery index | Mixed GPT Image 2 / 2.5; only entries whose original post is 2.5-era are adopted |
+| [youmind prompt collections](https://youmind.com/gpt-image-2-prompts) · [tosea.ai/prompts](https://tosea.ai/prompts) · [freegpt.im](https://freegpt.im/) | Periodic recheck | Watched for newly launched 2.5 sections with per-entry credit |
+| Hands-on write-ups (Tom's Guide, Morphic, personal blogs) | Hands-on group | Only with complete verbatim prompts and a named author |
+
+---
+
 ## 🤝 Contributing
 
-Launch week is when the best prompts get written. If you find a real prompt with its source post and render, please open a PR: the full rules and the `data/prompts.json` schema are in [CONTRIBUTING.md](CONTRIBUTING.md). Links are re-verified before merge, and any original author can request removal via an issue.
+Found a real prompt with its source post and render? Please open a PR: the full rules and the `data/prompts.json` schema are in [CONTRIBUTING.md](CONTRIBUTING.md). Links are re-verified before merge, and any original author can request removal via an issue.
 
 <a id="more-resources"></a>
 
@@ -1303,4 +1321,4 @@ Launch week is when the best prompts get written. If you find a real prompt with
 
 ---
 
-<p align="center">⭐ Star to catch new prompts as the launch-week wave lands.</p>
+<p align="center">⭐ Star to catch new prompts — the collection is updated daily.</p>
