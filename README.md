@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-57-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-68-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (38)](#first-wave-from-x)
+- [🐦 First Wave from X (49)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -1251,6 +1251,216 @@ Create a high-quality, ultra-photorealistic candid lifestyle portrait of the sam
 </details>
 
 👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2096850534150164490) · 2026-09-07 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 63 likes at collection time.
+
+---
+
+#### 58. Full-Body Portrait of a Woman in Casual Home Setting
+
+<a href="https://x.com/AIVideoHub_/status/2095446985310630347"><img src="https://pbs.twimg.com/media/HRSF7DhbYAAbh92.jpg" alt="Full-Body Portrait of a Woman in Casual Home Setting — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRSF7DbacAAYvQi.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，完整全身构图，超写实真人摄影 × 高级职业时尚 Editorial × 慵懒居家氛围 × 暖调电影感。一位 20–22 岁、明确成年的漂亮东亚女性，身高约 1.75
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2095446985310630347) · 2026-09-03 · ℹ️ ❤️ 150 likes at collection time.
+
+---
+
+#### 59. Selfie of a Dancer in Grey Tones
+
+<a href="https://x.com/AIVideoHub_/status/2096146368003973632"><img src="https://pbs.twimg.com/media/HRcB-fMbUAAhYRO.jpg" alt="Selfie of a Dancer in Grey Tones — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRcB-fPbMAEZun6.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRcB-fKaQAAPVMQ.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，真实手机前置摄像头近距离自拍 × 日系舞蹈生 Editorial × 清冷梦核 × 高级灰生活写真。
+
+一位 19–20 岁、明确成年的漂亮东亚女性，身高约 1.73
+```
+
+</details>
+
+👤 **[@AIVideoHub_](https://x.com/AIVideoHub_)** · [Source](https://x.com/AIVideoHub_/status/2096146368003973632) · 2026-09-05 · ℹ️ ❤️ 156 likes at collection time.
+
+---
+
+#### 60. Photorealistic Editorial Portrait with Heart-Oval Face
+
+<a href="https://x.com/VIBEQUIRKLABS/status/2096947059949777280"><img src="https://pbs.twimg.com/media/HRnZM_cbcAIAj4U.jpg" alt="Photorealistic Editorial Portrait with Heart-Oval Face — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRnZM_vaUAEAcH1.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRnZM_ebsAARJFG.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRnZM_jasAAqqVp.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, eye-level view.
+
+A 20-year-old adult East Asian woman, long heart-oval face with high cheeks, warm hazel almond eyes with lifted corners, slim medium-bridge nose, full coral-rose lips with a plush lower lip,
+```
+
+</details>
+
+👤 **[@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS)** · [Source](https://x.com/VIBEQUIRKLABS/status/2096947059949777280) · 2026-09-07 · ℹ️ ❤️ 61 likes at collection time.
+
+---
+
+#### 61. Dolphin's View of Women in Glass Aquarium
+
+<a href="https://x.com/AI_money_club/status/2096434210726662386"><img src="https://pbs.twimg.com/media/HRdupxAbQAACW_f.jpg" alt="Dolphin's View of Women in Glass Aquarium — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRdupxBbcAI8OLc.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRdupxGbcAA1J6R.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRdupw_bwAAfS4Y.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+女性だけが入館できる連日大賑わいのイルカと泳げる水族館。館側のサービスで360°ガラス張りの水槽で泳ぎに来た女性達を待ち構え水槽から覗き込むイルカ。イルカ視点のリアルな画像
+```
+
+</details>
+
+👤 **[@AI_money_club](https://x.com/AI_money_club)** · [Source](https://x.com/AI_money_club/status/2096434210726662386) · 2026-09-06 · ℹ️ ❤️ 59 likes at collection time.
+
+---
+
+#### 62. iPhone Portrait of a Young Woman
+
+<a href="https://x.com/liyue_ai/status/2096893347084583383"><img src="https://pbs.twimg.com/media/HRmpWDHawAAz8DP.jpg" alt="iPhone Portrait of a Young Woman — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，真实 iPhone 手机普通主摄随手拍摄的生活感女性照片，一位视觉年龄约 20–26
+```
+
+</details>
+
+👤 **[@liyue_ai](https://x.com/liyue_ai)** · [Source](https://x.com/liyue_ai/status/2096893347084583383) · 2026-09-07 · ℹ️ ❤️ 57 likes at collection time.
+
+---
+
+#### 63. Luxury Travel Campaign Masterpiece
+
+<a href="https://x.com/KrishnaBio1/status/2097133470795661602"><img src="https://pbs.twimg.com/media/HRqDnAIWsAEgLZK.jpg" alt="Luxury Travel Campaign Masterpiece — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRqDnBMagAAjZsg.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRqDnA3XQAAMTcm.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRqDnA2WsAEQ590.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Premium sophisticated luxury lifestyle travel-campaign masterpiece combining an exclusive Alpine lakeside mountain retreat, a breathtaking Dubai waterfront luxury escape, and multiple elegant European lakeside chalet experiences into one
+```
+
+</details>
+
+👤 **[@KrishnaBio1](https://x.com/KrishnaBio1)** · [Source](https://x.com/KrishnaBio1/status/2097133470795661602) · 2026-09-08 · ℹ️ ❤️ 56 likes at collection time.
+
+---
+
+#### 64. Black Haunted Bride Gothic Wedding Gown
+
+<a href="https://x.com/towa_AIillust/status/2095500975419359440"><img src="https://pbs.twimg.com/media/HRS232SacAEiuKC.jpg" alt="Black Haunted Bride Gothic Wedding Gown — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRS232kagAAkCAh.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRS232RbAAAnKin.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+[concept: black haunted bride, deceased bride ghost, gothic Halloween horror, dark romantic elegance, eerie but cute], [dress: black gothic wedding gown, fitted black satin bodice, dramatic full-length
+```
+
+</details>
+
+👤 **[@towa_AIillust](https://x.com/towa_AIillust)** · [Source](https://x.com/towa_AIillust/status/2095500975419359440) · 2026-09-03 · ℹ️ ❤️ 56 likes at collection time.
+
+---
+
+#### 65. East Asian Woman Fashion Photo in Lounge
+
+<a href="https://x.com/johnAGI168/status/2095895235767181468"><img src="https://pbs.twimg.com/media/HRYdinbbQAAe2RX.jpg" alt="East Asian Woman Fashion Photo in Lounge — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ultra-photorealistic vertical 9:16 smartphone fashion photo of an exceptionally beautiful adult East Asian woman in an elegant private lounge at night. She has a refined small oval face, luminous fair skin with natural texture, large
+```
+
+</details>
+
+👤 **[@johnAGI168](https://x.com/johnAGI168)** · [Source](https://x.com/johnAGI168/status/2095895235767181468) · 2026-09-04 · ℹ️ ❤️ 54 likes at collection time.
+
+---
+
+#### 66. Cinematic Anamorphic Still of Women in Peony
+
+<a href="https://x.com/johnAGI168/status/2097523873059147957"><img src="https://pbs.twimg.com/media/HRvm1EeWsAA1I1a.jpg" alt="Cinematic Anamorphic Still of Women in Peony — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A cinematic wide anamorphic still photograph capturing an intimate floral interior — five miniature young adult Chinese women seated together inside the hollow of an enormous blooming pale-pink peony, its broad curved
+```
+
+</details>
+
+👤 **[@johnAGI168](https://x.com/johnAGI168)** · [Source](https://x.com/johnAGI168/status/2097523873059147957) · 2026-09-09 · ℹ️ ❤️ 73 likes at collection time.
+
+---
+
+#### 67. Taiwanese Woman Portrait With Black Mist Filter
+
+<a href="https://x.com/BubbleBrain/status/2097643392016777244"><img src="https://pbs.twimg.com/media/HRxRmoIaAAAlYgR.jpg" alt="Taiwanese Woman Portrait With Black Mist Filter — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Black mist filter, overlay mask, soft-light CCD portrait photography, subtle highlight bloom on the face, Taiwanese woman, medium-short hair, soft Wu-dialect speaking manner, precise
+```
+
+</details>
+
+👤 **[@BubbleBrain](https://x.com/BubbleBrain)** · [Source](https://x.com/BubbleBrain/status/2097643392016777244) · 2026-09-09 · ℹ️ ❤️ 132 likes at collection time.
+
+---
+
+#### 68. Full-Body Editorial Portrait in Burgundy
+
+<a href="https://x.com/abs_uiux/status/2096125260907127091"><img src="https://pbs.twimg.com/media/HRbuzkYbgAEY0PS.jpg" alt="Full-Body Editorial Portrait in Burgundy — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-realistic full-body editorial studio portrait of a stylish adult Black man seated confidently on a minimalist
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2096125260907127091) · 2026-09-05 · ℹ️ ❤️ 53 likes at collection time.
 
 ---
 
