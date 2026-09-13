@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-68-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-81-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (49)](#first-wave-from-x)
+- [🐦 First Wave from X (62)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -1461,6 +1461,240 @@ Create an ultra-realistic full-body editorial studio portrait of a stylish adult
 </details>
 
 👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2096125260907127091) · 2026-09-05 · ℹ️ ❤️ 53 likes at collection time.
+
+---
+
+#### 69. Winter Fashion Portrait From Photo
+
+<a href="https://x.com/abs_uiux/status/2096825349862551585"><img src="https://pbs.twimg.com/media/HRlriBGbEAE8qts.jpg" alt="Winter Fashion Portrait From Photo — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the subject photo as a facial identity reference.
+Create an ultra-realistic outdoor winter fashion portrait of an
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2096825349862551585) · 2026-09-07 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 48 likes at collection time.
+
+---
+
+#### 70. Confident Man Editorial Portrait
+
+<a href="https://x.com/abs_uiux/status/2097223313592316111"><img src="https://pbs.twimg.com/media/HRrVe8oWwAAElcB.jpg" alt="Confident Man Editorial Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2097223313592316111) · 2026-09-08 · ℹ️ ❤️ 52 likes at collection time.
+
+---
+
+#### 71. Vertical iPhone Lifestyle Portrait
+
+<a href="https://x.com/liyue_ai/status/2097225500976443426"><img src="https://pbs.twimg.com/media/HRrXeB2aEAAQ8ir.jpg" alt="Vertical iPhone Lifestyle Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26
+```
+
+</details>
+
+👤 **[@liyue_ai](https://x.com/liyue_ai)** · [Source](https://x.com/liyue_ai/status/2097225500976443426) · 2026-09-08 · ℹ️ ❤️ 51 likes at collection time.
+
+---
+
+#### 72. Oriental Zen Minimalist Cover Poster
+
+<a href="https://x.com/liyue_ai/status/2096441444366180494"><img src="https://pbs.twimg.com/media/HRgOK1Wa0AAE2DY.jpg" alt="Oriental Zen Minimalist Cover Poster — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+主题方向：东方禅意极简封面海报
+风格分支：女性审美清透型
+主体内容：一位古风女子从门洞前缓步经过，姿态轻盈
+情绪母题：明净、轻快、春日呼吸感
+场景与意象：白墙、晴空蓝门洞、樱花粉花影、少量叶片、人物
+构图与空间：9:16
+```
+
+</details>
+
+👤 **[@liyue_ai](https://x.com/liyue_ai)** · [Source](https://x.com/liyue_ai/status/2096441444366180494) · 2026-09-06 · ℹ️ ❤️ 47 likes at collection time.
+
+---
+
+#### 73. Neuroscience Conference Poster
+
+<a href="https://x.com/_daichikonno/status/2097880100587135480"><img src="https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg" alt="Neuroscience Conference Poster — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして
+```
+
+</details>
+
+👤 **[@_daichikonno](https://x.com/_daichikonno)** · [Source](https://x.com/_daichikonno/status/2097880100587135480) · 2026-09-10 · ℹ️ ❤️ 268 likes at collection time.
+
+---
+
+#### 74. Premium Smartphone Campaign Poster
+
+<a href="https://x.com/Diplomeme/status/2097978468642480487"><img src="https://pbs.twimg.com/media/HR2DU3caIAADvXK.jpg" alt="Premium Smartphone Campaign Poster — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR2DdxyagAATv4R.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial
+```
+
+</details>
+
+👤 **[@Diplomeme](https://x.com/Diplomeme)** · [Source](https://x.com/Diplomeme/status/2097978468642480487) · 2026-09-10 · ℹ️ ❤️ 169 likes at collection time.
+
+---
+
+#### 75. Sprite Sheet of Four Dot-Art Character Motions
+
+<a href="https://x.com/npaka123/status/2097574111518375970"><img src="https://pbs.twimg.com/media/HRwUe4hb0AA4WOE.jpg" alt="Sprite Sheet of Four Dot-Art Character Motions — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRwUfy9akAAttE3.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。
+・走る：体を前傾させ、手足を大きく交互に動かす。
+```
+
+</details>
+
+👤 **[@npaka123](https://x.com/npaka123)** · [Source](https://x.com/npaka123/status/2097574111518375970) · 2026-09-09 · ℹ️ ❤️ 50 likes at collection time.
+
+---
+
+#### 76. Woman Among Dense Pink Flowering Branches
+
+<a href="https://x.com/dreamydigiarts/status/2097520379791135019"><img src="https://pbs.twimg.com/media/HRuGri9aUAAzC20.jpg" alt="Woman Among Dense Pink Flowering Branches — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A photograph of a woman among dense branches with pink flowers. The woman stands surrounded by flowering branches that fill the foreground and background. The composition is arranged so that the flowers partially overlap the edges of the
+```
+
+</details>
+
+👤 **[@dreamydigiarts](https://x.com/dreamydigiarts)** · [Source](https://x.com/dreamydigiarts/status/2097520379791135019) · 2026-09-09 · ℹ️ ❤️ 59 likes at collection time.
+
+---
+
+#### 77. Cinematic Fashion Portrait Identity
+
+<a href="https://x.com/mehvishs25/status/2096269928211087458"><img src="https://pbs.twimg.com/media/HRdyXaFacAAtyr7.jpg" alt="Cinematic Fashion Portrait Identity — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRdyYaibUAE9sXZ.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-photorealistic, cinematic close-up fashion portrait of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same
+```
+
+</details>
+
+👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2096269928211087458) · 2026-09-05 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 45 likes at collection time.
+
+---
+
+#### 78. Pixel Art Sprite Sheet for Character
+
+<a href="https://x.com/tetumemo/status/2097750589937733916"><img src="https://pbs.twimg.com/media/HRyztXJaUAEWRRX.jpg" alt="Pixel Art Sprite Sheet for Character — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRyz4ehbIAA_dyd.png" width="320">
+
+<img src="https://pbs.twimg.com/media/HRyz59QbAAAw6oZ.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background="transparent"
+```
+
+</details>
+
+👤 **[@tetumemo](https://x.com/tetumemo)** · [Source](https://x.com/tetumemo/status/2097750589937733916) · 2026-09-09 · ℹ️ ❤️ 101 likes at collection time.
+
+---
+
+#### 79. Candid Photo of Woman in Cozy Night Living Room
+
+<a href="https://x.com/Aimi_kute/status/2097832705711018120"><img src="https://pbs.twimg.com/media/HRz_uCFbsAADow0.jpg" alt="Candid Photo of Woman in Cozy Night Living Room — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate
+```
+
+</details>
+
+👤 **[@Aimi_kute](https://x.com/Aimi_kute)** · [Source](https://x.com/Aimi_kute/status/2097832705711018120) · 2026-09-09 · ℹ️ ❤️ 69 likes at collection time.
+
+---
+
+#### 80. Cinematic Fashion Editorial with Identity Reference
+
+<a href="https://x.com/mehvishs25/status/2095516949229056060"><img src="https://pbs.twimg.com/media/HRTFibfaoAAtL1k.jpg" alt="Cinematic Fashion Editorial with Identity Reference — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRTFjVZagAEAuW3.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-photorealistic cinematic fashion editorial photograph using image as the identity reference. The woman must remain unmistakably the same person as in the reference image. SUBJECT & POSE Place the woman alone inside a massive, dark
+```
+
+</details>
+
+👤 **[@mehvishs25](https://x.com/mehvishs25)** · [Source](https://x.com/mehvishs25/status/2095516949229056060) · 2026-09-03 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 40 likes at collection time.
+
+---
+
+#### 81. Cowboy Shot Portrait of East Asian Woman
+
+<a href="https://x.com/VIBEQUIRKLABS/status/2096619772494401877"><img src="https://pbs.twimg.com/media/HRiwc_-boAAyM05.jpg" alt="Cowboy Shot Portrait of East Asian Woman — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRiwdAkbUAAVKNF.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Photorealistic editorial portrait.
+
+Knee-up cowboy shot, waist-level view.
+
+A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick
+```
+
+</details>
+
+👤 **[@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS)** · [Source](https://x.com/VIBEQUIRKLABS/status/2096619772494401877) · 2026-09-06 · ℹ️ ❤️ 40 likes at collection time.
 
 ---
 

@@ -1373,5 +1373,259 @@
     "model_note": null,
     "notes": "❤️ 53 likes at collection time.",
     "source_verified": true
+  },
+  {
+    "id": 69,
+    "title": "Winter Fashion Portrait From Photo",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Use the subject photo as a facial identity reference.\nCreate an ultra-realistic outdoor winter fashion portrait of an",
+    "author": "@abs_uiux",
+    "author_url": "https://x.com/abs_uiux",
+    "source_url": "https://x.com/abs_uiux/status/2096825349862551585",
+    "source_type": "x-post",
+    "published_at": "2026-09-07",
+    "images": [
+      "https://pbs.twimg.com/media/HRlriBGbEAE8qts.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 48 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 70,
+    "title": "Confident Man Editorial Portrait",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style. Give him neatly short black hair.",
+    "author": "@abs_uiux",
+    "author_url": "https://x.com/abs_uiux",
+    "source_url": "https://x.com/abs_uiux/status/2097223313592316111",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRrVe8oWwAAElcB.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 52 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 71,
+    "title": "Vertical iPhone Lifestyle Portrait",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "zh",
+    "prompt": "9:16 竖版，真实 iPhone 手机随手拍摄的生活感女性照片，画面主体是一位视觉年龄约 20–26",
+    "author": "@liyue_ai",
+    "author_url": "https://x.com/liyue_ai",
+    "source_url": "https://x.com/liyue_ai/status/2097225500976443426",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRrXeB2aEAAQ8ir.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 51 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 72,
+    "title": "Oriental Zen Minimalist Cover Poster",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "zh",
+    "prompt": "主题方向：东方禅意极简封面海报\n风格分支：女性审美清透型\n主体内容：一位古风女子从门洞前缓步经过，姿态轻盈\n情绪母题：明净、轻快、春日呼吸感\n场景与意象：白墙、晴空蓝门洞、樱花粉花影、少量叶片、人物\n构图与空间：9:16",
+    "author": "@liyue_ai",
+    "author_url": "https://x.com/liyue_ai",
+    "source_url": "https://x.com/liyue_ai/status/2096441444366180494",
+    "source_type": "x-post",
+    "published_at": "2026-09-06",
+    "images": [
+      "https://pbs.twimg.com/media/HRgOK1Wa0AAE2DY.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 47 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 73,
+    "title": "Neuroscience Conference Poster",
+    "group": "x",
+    "category": "Layout & Typography",
+    "language": "ja",
+    "prompt": "2026年の神経科学大会で学会発表するためのポスター規定を調べ、それに従い添付論文をポスターにして",
+    "author": "@_daichikonno",
+    "author_url": "https://x.com/_daichikonno",
+    "source_url": "https://x.com/_daichikonno/status/2097880100587135480",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR0qIogbQAAO5DF.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 268 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 74,
+    "title": "Premium Smartphone Campaign Poster",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready\nStyle: Apple-level art direction × contemporary product photography × bold editorial",
+    "author": "@Diplomeme",
+    "author_url": "https://x.com/Diplomeme",
+    "source_url": "https://x.com/Diplomeme/status/2097978468642480487",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR2DU3caIAADvXK.jpg",
+      "https://pbs.twimg.com/media/HR2DdxyagAATv4R.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 169 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 75,
+    "title": "Sprite Sheet of Four Dot-Art Character Motions",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "ja",
+    "prompt": "添付キャラクターの顔・髪型・衣装・配色・体格を統一し、ゲームで映える4種類のドット絵モーションを、各最大4フレームで1枚のスプライトシート画像に生成して。1フレームのサイズは256x256px。\n・走る：体を前傾させ、手足を大きく交互に動かす。",
+    "author": "@npaka123",
+    "author_url": "https://x.com/npaka123",
+    "source_url": "https://x.com/npaka123/status/2097574111518375970",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRwUe4hb0AA4WOE.jpg",
+      "https://pbs.twimg.com/media/HRwUfy9akAAttE3.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 50 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 76,
+    "title": "Woman Among Dense Pink Flowering Branches",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "A photograph of a woman among dense branches with pink flowers. The woman stands surrounded by flowering branches that fill the foreground and background. The composition is arranged so that the flowers partially overlap the edges of the",
+    "author": "@dreamydigiarts",
+    "author_url": "https://x.com/dreamydigiarts",
+    "source_url": "https://x.com/dreamydigiarts/status/2097520379791135019",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRuGri9aUAAzC20.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 59 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 77,
+    "title": "Cinematic Fashion Portrait Identity",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Create an ultra-photorealistic, cinematic close-up fashion portrait of the same adult woman from the reference image. Preserve her facial identity, facial structure, skin tone, hairstyle, and overall appearance so she remains unmistakably the same",
+    "author": "@mehvishs25",
+    "author_url": "https://x.com/mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/2096269928211087458",
+    "source_type": "x-post",
+    "published_at": "2026-09-05",
+    "images": [
+      "https://pbs.twimg.com/media/HRdyXaFacAAtyr7.jpg",
+      "https://pbs.twimg.com/media/HRdyYaibUAE9sXZ.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 45 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 78,
+    "title": "Pixel Art Sprite Sheet for Character",
+    "group": "x",
+    "category": "Precision Editing",
+    "language": "ja",
+    "prompt": "このキャラクターの128pxの簡略化されたpixelartの戦闘モーションのスプライトシートを作って。透過できるなら透過。4x4で配置すること ※background=\"transparent\"",
+    "author": "@tetumemo",
+    "author_url": "https://x.com/tetumemo",
+    "source_url": "https://x.com/tetumemo/status/2097750589937733916",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRyztXJaUAEWRRX.jpg",
+      "https://pbs.twimg.com/media/HRyz4ehbIAA_dyd.png",
+      "https://pbs.twimg.com/media/HRyz59QbAAAw6oZ.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 101 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 79,
+    "title": "Candid Photo of Woman in Cozy Night Living Room",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "A photorealistic candid photo in a 9:16 aspect ratio, featuring an adult East Asian woman around 25 years old sitting on a soft rug beside a coffee table in a cozy living room at night, capturing an intimate",
+    "author": "@Aimi_kute",
+    "author_url": "https://x.com/Aimi_kute",
+    "source_url": "https://x.com/Aimi_kute/status/2097832705711018120",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRz_uCFbsAADow0.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 69 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 80,
+    "title": "Cinematic Fashion Editorial with Identity Reference",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Create an ultra-photorealistic cinematic fashion editorial photograph using image as the identity reference. The woman must remain unmistakably the same person as in the reference image. SUBJECT & POSE Place the woman alone inside a massive, dark",
+    "author": "@mehvishs25",
+    "author_url": "https://x.com/mehvishs25",
+    "source_url": "https://x.com/mehvishs25/status/2095516949229056060",
+    "source_type": "x-post",
+    "published_at": "2026-09-03",
+    "images": [
+      "https://pbs.twimg.com/media/HRTFibfaoAAtL1k.jpg",
+      "https://pbs.twimg.com/media/HRTFjVZagAEAuW3.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 40 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 81,
+    "title": "Cowboy Shot Portrait of East Asian Woman",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Photorealistic editorial portrait.\n\nKnee-up cowboy shot, waist-level view.\n\nA 20-year-old adult East Asian woman, small heart-oval face with a fine pointed chin, wide-set gray-hazel almond eyes with lifted corners, narrow-bridge rounded-tip nose, full coral-brick",
+    "author": "@VIBEQUIRKLABS",
+    "author_url": "https://x.com/VIBEQUIRKLABS",
+    "source_url": "https://x.com/VIBEQUIRKLABS/status/2096619772494401877",
+    "source_type": "x-post",
+    "published_at": "2026-09-06",
+    "images": [
+      "https://pbs.twimg.com/media/HRiwc_-boAAyM05.jpg",
+      "https://pbs.twimg.com/media/HRiwdAkbUAAVKNF.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 40 likes at collection time.",
+    "source_verified": true
   }
 ]
