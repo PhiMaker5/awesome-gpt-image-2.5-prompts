@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-81-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-98-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (62)](#first-wave-from-x)
+- [🐦 First Wave from X (79)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -1695,6 +1695,310 @@ A 20-year-old adult East Asian woman, small heart-oval face with a fine pointed 
 </details>
 
 👤 **[@VIBEQUIRKLABS](https://x.com/VIBEQUIRKLABS)** · [Source](https://x.com/VIBEQUIRKLABS/status/2096619772494401877) · 2026-09-06 · ℹ️ ❤️ 40 likes at collection time.
+
+---
+
+#### 82. Character Design Reference Sheet
+
+<a href="https://x.com/meAsifAi/status/2097949170594193427"><img src="https://pbs.twimg.com/media/HR1pU0jbsAAu_UR.jpg" alt="Character Design Reference Sheet — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a premium professional character design reference sheet / production model sheet based strictly on the provided reference image.
+
+REFERENCE & IDENTITY LOCK:
+Use the uploaded reference as the single source of truth for the
+```
+
+</details>
+
+👤 **[@meAsifAi](https://x.com/meAsifAi)** · [Source](https://x.com/meAsifAi/status/2097949170594193427) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 1759 likes at collection time.
+
+---
+
+#### 83. Instagram Travel Campaign with Smartphone Anchor
+
+<a href="https://x.com/Goodmanprotocol/status/2097890291860865291"><img src="https://pbs.twimg.com/media/HR00CbhacAAFzKP.jpg" alt="Instagram Travel Campaign with Smartphone Anchor — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR00DraaoAEP8_g.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR00Ethb0AAb_C-.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR00F2NbEAAn5Hl.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+[LOCATION] = Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format. A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation
+```
+
+</details>
+
+👤 **[@Goodmanprotocol](https://x.com/Goodmanprotocol)** · [Source](https://x.com/Goodmanprotocol/status/2097890291860865291) · 2026-09-10 · ℹ️ ❤️ 64 likes at collection time.
+
+---
+
+#### 84. Close-Up Beauty Portrait of Young East Asian Woman
+
+<a href="https://x.com/BubbleBrain/status/2097880651714441590"><img src="https://pbs.twimg.com/media/HR0rPQpa4AAHuzQ.jpg" alt="Close-Up Beauty Portrait of Young East Asian Woman — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+9:16 vertical, photorealistic beauty portrait, close-up composition, soft natural lighting, high-detail skin texture, subtle glow, shallow depth of field, clean softly blurred background, intimate and delicate mood. A clearly adult young East Asian woman
+```
+
+</details>
+
+👤 **[@BubbleBrain](https://x.com/BubbleBrain)** · [Source](https://x.com/BubbleBrain/status/2097880651714441590) · 2026-09-10 · ℹ️ ❤️ 58 likes at collection time.
+
+---
+
+#### 85. Animated Scene from Two Reference Images
+
+<a href="https://x.com/KrishnaBio1/status/2097980339490574356"><img src="https://pbs.twimg.com/media/HR2F-L5bwAA__Ee.jpg" alt="Animated Scene from Two Reference Images — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR2F-LPaoAA1JVA.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Turn the two reference images into one adorable, heartwarming animated scene of a little girl playing peacefully in her cozy dream bedroom. CHARACTER A cute toddler girl with soft fair skin, round adorable features, rosy cheeks, large expressive
+```
+
+</details>
+
+👤 **[@KrishnaBio1](https://x.com/KrishnaBio1)** · [Source](https://x.com/KrishnaBio1/status/2097980339490574356) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 55 likes at collection time.
+
+---
+
+#### 86. High-Fashion Black and White Editorial Portrait
+
+<a href="https://x.com/harboriis/status/2098051393538134448"><img src="https://pbs.twimg.com/media/HR3GmTNasAIZWmE.jpg" alt="High-Fashion Black and White Editorial Portrait — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR3Gm_aa4AA6x0R.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR3GnlWaMAAqJ5A.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a high-fashion black and white editorial portrait of a young man with thick naturally curly dark hair, wearing an oversized black T-shirt with a small minimalist “NOCTIS” logo centered on the chest, layered over a white long-sleeve shirt.
+```
+
+</details>
+
+👤 **[@harboriis](https://x.com/harboriis)** · [Source](https://x.com/harboriis/status/2098051393538134448) · 2026-09-10 · ℹ️ ❤️ 53 likes at collection time.
+
+---
+
+#### 87. Kids Footwear Ad Poster with Girl and Giant Sneaker
+
+<a href="https://x.com/Strength04_X/status/2098027327850787203"><img src="https://pbs.twimg.com/media/HR2wuWwacAAXAIc.jpg" alt="Kids Footwear Ad Poster with Girl and Giant Sneaker — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A sweet fun kids footwear advertisement poster. An adorable young girl age 7 with a big smile in a soft pink tulle skirt and white top skips joyfully beside a giant pink and white sneaker 3x her height with a glittery sole and bow detail on the
+```
+
+</details>
+
+👤 **[@Strength04_X](https://x.com/Strength04_X)** · [Source](https://x.com/Strength04_X/status/2098027327850787203) · 2026-09-10 · ℹ️ ❤️ 40 likes at collection time.
+
+---
+
+#### 88. Facial Identity Reference Across Composition
+
+<a href="https://x.com/abs_uiux/status/2097891312498507947"><img src="https://pbs.twimg.com/media/HRz-DGZaUAE_Fkl.jpg" alt="Facial Identity Reference Across Composition — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded photo as the facial identity reference for the same adult man appearing throughout the composition. Preserve his recognizable facial
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2097891312498507947) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 39 likes at collection time.
+
+---
+
+#### 89. Fox Jellyfish in Highland Aquarium
+
+<a href="https://x.com/MATCHA_ORANGE_/status/2098025183567351858"><img src="https://pbs.twimg.com/media/HR2uyIbaIAATDZz.jpg" alt="Fox Jellyfish in Highland Aquarium — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+キツネ/クラゲ/高原/水槽の中/眠そうなジト目
+光のつぶつぶ感が無くなったimage 2.5
+```
+
+</details>
+
+👤 **[@MATCHA_ORANGE_](https://x.com/MATCHA_ORANGE_)** · [Source](https://x.com/MATCHA_ORANGE_/status/2098025183567351858) · 2026-09-10 · ℹ️ ❤️ 29 likes at collection time.
+
+---
+
+#### 90. Multi-Panel Film Character Reference Sheet
+
+<a href="https://x.com/abxxai/status/2098061897702805800"><img src="https://pbs.twimg.com/media/HR3QLSqbUAAGOtH.jpg" alt="Multi-Panel Film Character Reference Sheet — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Multi-panel film character reference sheet of the same real woman across four panels:
+```
+
+</details>
+
+👤 **[@abxxai](https://x.com/abxxai)** · [Source](https://x.com/abxxai/status/2098061897702805800) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 27 likes at collection time.
+
+---
+
+#### 91. Cinematic Portrait of a Woman in Paris
+
+<a href="https://x.com/AIwithSarah_/status/2097988919602389025"><img src="https://pbs.twimg.com/media/HR2Nx-LaIAAqmY9.jpg" alt="Cinematic Portrait of a Woman in Paris — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR2NyjYbkAAywVy.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR2NzFlbUAA_lz4.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ultra-realistic cinematic photography, vertical 9:16, dreamy Paris street portrait with a subtle analog photography character. A beautiful young Southeast Asian hijabi woman walks near the Eiffel Tower, captured from a close three-quarter rear
+```
+
+</details>
+
+👤 **[@AIwithSarah_](https://x.com/AIwithSarah_)** · [Source](https://x.com/AIwithSarah_/status/2097988919602389025) · 2026-09-10 · ℹ️ ❤️ 24 likes at collection time.
+
+---
+
+#### 92. Hyperrealistic Fashion Portrait in Japanese House
+
+<a href="https://x.com/johnAGI168/status/2098031845619237206"><img src="https://pbs.twimg.com/media/HR200WfaoAACJ6T.jpg" alt="Hyperrealistic Fashion Portrait in Japanese House — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A hyperrealistic full-body lifestyle fashion portrait of an adult East Asian woman walking slowly toward the camera through a narrow corridor inside a traditional Japanese wooden house. She occupies the left-center of the vertical frame, surrounded
+```
+
+</details>
+
+👤 **[@johnAGI168](https://x.com/johnAGI168)** · [Source](https://x.com/johnAGI168/status/2098031845619237206) · 2026-09-10 · ℹ️ ❤️ 16 likes at collection time.
+
+---
+
+#### 93. Manga Panel With Speech Bubbles
+
+<a href="https://x.com/kabumira862571/status/2098251497385721990"><img src="https://pbs.twimg.com/media/HR58mKHa8AAs-4g.jpg" alt="Manga Panel With Speech Bubbles — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+“ねぇねぇ、聞いてよ！”という女の子と、その吹き出しに男の子は心の中で“聞こえないフリしとこう”という四角い吹き出しをかぶせる。
+アスペクト比は縦長（4:5）で描画
+```
+
+</details>
+
+👤 **[@kabumira862571](https://x.com/kabumira862571)** · [Source](https://x.com/kabumira862571/status/2098251497385721990) · 2026-09-11 · ℹ️ ❤️ 15 likes at collection time.
+
+---
+
+#### 94. Chibi Character Sprite Sheet with 16 Poses
+
+<a href="https://x.com/zibxx/status/2098026042946400703"><img src="https://pbs.twimg.com/media/HR2uhsabsAA_5tv.jpg" alt="Chibi Character Sprite Sheet with 16 Poses — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR2uiy7bcAAlxMB.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a chibi character sprite sheet with 16 poses in a 4x4 grid. Character: [describe tu personaje]. Poses: idle, walking, running, jumping,
+```
+
+</details>
+
+👤 **[@zibxx](https://x.com/zibxx)** · [Source](https://x.com/zibxx/status/2098026042946400703) · 2026-09-10 · ℹ️ ❤️ 15 likes at collection time.
+
+---
+
+#### 95. Woman in Kimono Eating Beef Tongue Rice
+
+<a href="https://x.com/kabumira862571/status/2098035490192785661"><img src="https://pbs.twimg.com/media/HR24Jz-bAAAFgQz.jpg" alt="Woman in Kimono Eating Beef Tongue Rice — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+和服の女性。
+A woman in Japanese clothes.
+牛タンと麦飯を食べました。
+I had beef tongue with barley rice.
+```
+
+</details>
+
+👤 **[@kabumira862571](https://x.com/kabumira862571)** · [Source](https://x.com/kabumira862571/status/2098035490192785661) · 2026-09-10 · ℹ️ ❤️ 13 likes at collection time.
+
+---
+
+#### 96. Animals Rebuilt with Luxury Fashion Fabrics
+
+<a href="https://x.com/Gdgtify/status/2097981153760116975"><img src="https://pbs.twimg.com/media/HRx0J5fXwAIFazp.jpg" alt="Animals Rebuilt with Luxury Fashion Fabrics — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/animals
+```
+
+</details>
+
+👤 **[@Gdgtify](https://x.com/Gdgtify)** · [Source](https://x.com/Gdgtify/status/2097981153760116975) · 2026-09-10 · ℹ️ ❤️ 12 likes at collection time.
+
+---
+
+#### 97. Heroic Legacy Poster For Chess Player
+
+<a href="https://x.com/Gdgtify/status/2098095155576246642"><img src="https://pbs.twimg.com/media/HR0SVOvacAEZSa8.jpg" alt="Heroic Legacy Poster For Chess Player — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR0SVOkbIAAW68X.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR0SVQaakAAvd6C.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR0Si-FaAAEMT5D.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+2x2 grid, 9:16, 4 goat chess players who passed away [SUBJECT] :: single standalone vertical tribute poster, not a grid    Create a heroic illustrated legacy poster for [SUBJECT], showing
+```
+
+</details>
+
+👤 **[@Gdgtify](https://x.com/Gdgtify)** · [Source](https://x.com/Gdgtify/status/2098095155576246642) · 2026-09-10 · ℹ️ ❤️ 11 likes at collection time.
+
+---
+
+#### 98. Person Befriending a Cat Amid Chaos
+
+<a href="https://x.com/tori_kizi/status/2097940196725751815"><img src="https://pbs.twimg.com/media/HR1hfTnbgAA01v4.jpg" alt="Person Befriending a Cat Amid Chaos — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+いろんなことに巻き込まれてもらったら、いつの間にかネコと仲良くなってた
+```
+
+</details>
+
+👤 **[@tori_kizi](https://x.com/tori_kizi)** · [Source](https://x.com/tori_kizi/status/2097940196725751815) · 2026-09-10 · ℹ️ ❤️ 5 likes at collection time.
 
 ---
 
