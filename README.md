@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-98-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-110-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (79)](#first-wave-from-x)
+- [🐦 First Wave from X (91)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -1999,6 +1999,230 @@ Animals rebuilt with fabrics of luxury fashion houses. 16:9, 2x2 grid, 4 brands/
 </details>
 
 👤 **[@tori_kizi](https://x.com/tori_kizi)** · [Source](https://x.com/tori_kizi/status/2097940196725751815) · 2026-09-10 · ℹ️ ❤️ 5 likes at collection time.
+
+---
+
+#### 99. Inner World Based on AI Art Preferences
+
+<a href="https://x.com/FufuJiangshi/status/2097809058384470276"><img src="https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg" alt="Inner World Based on AI Art Preferences — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて
+```
+
+</details>
+
+👤 **[@FufuCreates](https://x.com/FufuCreates)** · [Source](https://x.com/FufuJiangshi/status/2097809058384470276) · 2026-09-09 · ℹ️ ❤️ 72 likes at collection time.
+
+---
+
+#### 100. Article to Four-Panel Manga in Afternoon Style
+
+<a href="https://x.com/tetumemo/status/2097848254792859732"><img src="https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg" alt="Article to Four-Panel Manga in Afternoon Style — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して
+```
+
+</details>
+
+👤 **[@tetumemo](https://x.com/tetumemo)** · [Source](https://x.com/tetumemo/status/2097848254792859732) · 2026-09-10 · ℹ️ ❤️ 38 likes at collection time.
+
+---
+
+#### 101. Fashion Portrait Using Facial Identity Reference
+
+<a href="https://x.com/abs_uiux/status/2097852562611564905"><img src="https://pbs.twimg.com/media/HRz4zApaIAAHNYT.jpg" alt="Fashion Portrait Using Facial Identity Reference — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.
+
+Create a premium, ultra-realistic full-body fashion portrait of
+```
+
+</details>
+
+👤 **[@abs_uiux](https://x.com/abs_uiux)** · [Source](https://x.com/abs_uiux/status/2097852562611564905) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 35 likes at collection time.
+
+---
+
+#### 102. Menacing Figure in Sharp Profile
+
+<a href="https://x.com/abulu8/status/2097733554990186638"><img src="https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg" alt="Menacing Figure in Sharp Profile — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw
+```
+
+</details>
+
+👤 **[@abulu8](https://x.com/abulu8)** · [Source](https://x.com/abulu8/status/2097733554990186638) · 2026-09-09 · ℹ️ ❤️ 24 likes at collection time.
+
+---
+
+#### 103. Realistic Image of a Surreal Thing
+
+<a href="https://x.com/icreatelife/status/2097860435366048106"><img src="https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg" alt="Realistic Image of a Surreal Thing — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+</details>
+
+👤 **[@icreatelife](https://x.com/icreatelife)** · [Source](https://x.com/icreatelife/status/2097860435366048106) · 2026-09-10 · ℹ️ ❤️ 18 likes at collection time.
+
+---
+
+#### 104. Dramatic Literary Propaganda Wall Covers
+
+<a href="https://x.com/Gdgtify/status/2097878980913496093"><img src="https://pbs.twimg.com/media/HRqI11ka0AAdIe6.jpg" alt="Dramatic Literary Propaganda Wall Covers — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER
+```
+
+</details>
+
+👤 **[@Gdgtify](https://x.com/Gdgtify)** · [Source](https://x.com/Gdgtify/status/2097878980913496093) · 2026-09-10 · ℹ️ ❤️ 11 likes at collection time.
+
+---
+
+#### 105. Ambassador of a Season in Morning Light
+
+<a href="https://x.com/livybabie/status/2097773821830869048"><img src="https://pbs.twimg.com/media/HRzJ6KcbEAA0Qhg.jpg" alt="Ambassador of a Season in Morning Light — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRzJ8FgWMAMNIie.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRzJ-2mbEAAtHI0.jpg" width="320">
+
+<img src="https://pbs.twimg.com/media/HRzJ_63X0AMQuIQ.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Not a character.
+An ambassador for a season.
+
+Morning light.
+
+Magazine skin.
+
+Glass thin enough
+not to hide
+
+What the campaign pretended to hide.
+
+Beauty with manners.
+Charm with intent.
+
+If this were a real house,
+whose face would sign the summer?
+```
+
+</details>
+
+👤 **[@livybabie](https://x.com/livybabie)** · [Source](https://x.com/livybabie/status/2097773821830869048) · 2026-09-09 · ℹ️ ❤️ 8 likes at collection time.
+
+---
+
+#### 106. Character Battle Sprite Sheet Pixel Art
+
+<a href="https://x.com/Studio_Tora_lab/status/2097825288868499882"><img src="https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg" alt="Character Battle Sprite Sheet Pixel Art — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent
+```
+
+</details>
+
+👤 **[@Studio_Tora_lab](https://x.com/Studio_Tora_lab)** · [Source](https://x.com/Studio_Tora_lab/status/2097825288868499882) · 2026-09-09 · ℹ️ ❤️ 7 likes at collection time.
+
+---
+
+#### 107. Floating Diorama Grid Of Iconic Cities
+
+<a href="https://x.com/Gdgtify/status/2097738806564635028"><img src="https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg" alt="Floating Diorama Grid Of Iconic Cities — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The
+```
+
+</details>
+
+👤 **[@Gdgtify](https://x.com/Gdgtify)** · [Source](https://x.com/Gdgtify/status/2097738806564635028) · 2026-09-09 · ℹ️ ❤️ 7 likes at collection time.
+
+---
+
+#### 108. Premium Cinematic Character Bible Sheet
+
+<a href="https://x.com/TechieBySA/status/2097738632941461886"><img src="https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg" alt="Premium Cinematic Character Bible Sheet — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic
+```
+
+</details>
+
+👤 **[@TechieBySA](https://x.com/TechieBySA)** · [Source](https://x.com/TechieBySA/status/2097738632941461886) · 2026-09-09 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 7 likes at collection time.
+
+---
+
+#### 109. Ultra-Minimal Roman Empire Wallpaper
+
+<a href="https://x.com/shushant_l/status/2097988208357474530"><img src="https://pbs.twimg.com/media/HR2NKCyacAAL0iO.jpg" alt="Ultra-Minimal Roman Empire Wallpaper — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden
+```
+
+</details>
+
+👤 **[@shushant_l](https://x.com/shushant_l)** · [Source](https://x.com/shushant_l/status/2097988208357474530) · 2026-09-10 · ℹ️ ❤️ 4 likes at collection time.
+
+---
+
+#### 110. Link Chased By Puppet Chickens
+
+<a href="https://x.com/mesoelfy/status/2097838564465582546"><img src="https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg" alt="Link Chased By Puppet Chickens — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.
+```
+
+</details>
+
+👤 **[@mesoelfy](https://x.com/mesoelfy)** · [Source](https://x.com/mesoelfy/status/2097838564465582546) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 2 likes at collection time.
 
 ---
 

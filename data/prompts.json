@@ -1962,5 +1962,240 @@
     "model_note": null,
     "notes": "❤️ 5 likes at collection time.",
     "source_verified": true
+  },
+  {
+    "id": 99,
+    "title": "Inner World Based on AI Art Preferences",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "ja",
+    "prompt": "これまでの私のAIイラストの好みをもとに、私の内面世界を表す一枚を描いて",
+    "author": "@FufuCreates",
+    "author_url": "https://x.com/FufuCreates",
+    "source_url": "https://x.com/FufuJiangshi/status/2097809058384470276",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRzqN0jaMAA7yOL.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 72 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 100,
+    "title": "Article to Four-Panel Manga in Afternoon Style",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "ja",
+    "prompt": "添付の記事を日本の漫画、アフタヌーンに掲載されている風に4枚の画像で生成したいから構成考えて4枚分プロンプト出力して",
+    "author": "@tetumemo",
+    "author_url": "https://x.com/tetumemo",
+    "source_url": "https://x.com/tetumemo/status/2097848254792859732",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR0MLDmbEAAxGRs.jpg",
+      "https://pbs.twimg.com/media/HR0MLplbwAAgoa2.jpg",
+      "https://pbs.twimg.com/media/HR0MMDsbcAA-vh8.jpg",
+      "https://pbs.twimg.com/media/HR0MMgPbUAAfX9q.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 38 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 101,
+    "title": "Fashion Portrait Using Facial Identity Reference",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Use the uploaded photo as the facial identity reference for an adult man. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.\n\nCreate a premium, ultra-realistic full-body fashion portrait of",
+    "author": "@abs_uiux",
+    "author_url": "https://x.com/abs_uiux",
+    "source_url": "https://x.com/abs_uiux/status/2097852562611564905",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HRz4zApaIAAHNYT.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 35 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 102,
+    "title": "Menacing Figure in Sharp Profile",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "A menacing figure in sharp profile, sleek raven-black hair swept over the brow so only blood-red glossed lips and a razor jaw",
+    "author": "@abulu8",
+    "author_url": "https://x.com/abulu8",
+    "source_url": "https://x.com/abulu8/status/2097733554990186638",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRyli7ybAAA6W_W.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 24 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 103,
+    "title": "Realistic Image of a Surreal Thing",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "author": "@icreatelife",
+    "author_url": "https://x.com/icreatelife",
+    "source_url": "https://x.com/icreatelife/status/2097860435366048106",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 18 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 104,
+    "title": "Dramatic Literary Propaganda Wall Covers",
+    "group": "x",
+    "category": "Layout & Typography",
+    "language": "en",
+    "prompt": "2x2 grid, 16:9, pick 4 non-copyrighted, public domain books for this: Create a dramatic literary propaganda-wall cover for BOOK_TITLE.  Infer automatically: - BOOK_GENRE - CORE_THEME - TITLE_MARKER",
+    "author": "@Gdgtify",
+    "author_url": "https://x.com/Gdgtify",
+    "source_url": "https://x.com/Gdgtify/status/2097878980913496093",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HRqI11ka0AAdIe6.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 11 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 105,
+    "title": "Ambassador of a Season in Morning Light",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Not a character.\nAn ambassador for a season.\n\nMorning light.\n\nMagazine skin.\n\nGlass thin enough\nnot to hide\n\nWhat the campaign pretended to hide.\n\nBeauty with manners.\nCharm with intent.\n\nIf this were a real house,\nwhose face would sign the summer?",
+    "author": "@livybabie",
+    "author_url": "https://x.com/livybabie",
+    "source_url": "https://x.com/livybabie/status/2097773821830869048",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRzJ6KcbEAA0Qhg.jpg",
+      "https://pbs.twimg.com/media/HRzJ8FgWMAMNIie.jpg",
+      "https://pbs.twimg.com/media/HRzJ-2mbEAAtHI0.jpg",
+      "https://pbs.twimg.com/media/HRzJ_63X0AMQuIQ.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 8 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 106,
+    "title": "Character Battle Sprite Sheet Pixel Art",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Create a sprite sheet of this character's battle motion. 128px simplified pixel art, 4x4=16 frames, transparent",
+    "author": "@Studio_Tora_lab",
+    "author_url": "https://x.com/Studio_Tora_lab",
+    "source_url": "https://x.com/Studio_Tora_lab/status/2097825288868499882",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRz42yxaEAAPTuF.jpg",
+      "https://pbs.twimg.com/media/HRz47hSWAAEcvjZ.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 7 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 107,
+    "title": "Floating Diorama Grid Of Iconic Cities",
+    "group": "x",
+    "category": "Layout & Typography",
+    "language": "en",
+    "prompt": "2x2 grid, 16:9, do this for iconic cities: Do this for Shanghai: A floating diorama of [CITY_NAME] suspended in a grey studio::5  The Distortion: The",
+    "author": "@Gdgtify",
+    "author_url": "https://x.com/Gdgtify",
+    "source_url": "https://x.com/Gdgtify/status/2097738806564635028",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRvOkbRa8AAdq2_.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 7 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 108,
+    "title": "Premium Cinematic Character Bible Sheet",
+    "group": "x",
+    "category": "Reference Fidelity",
+    "language": "en",
+    "prompt": "Create a premium cinematic character bible sheet for ALAN & T-REX. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance. LAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "author": "@TechieBySA",
+    "author_url": "https://x.com/TechieBySA",
+    "source_url": "https://x.com/TechieBySA/status/2097738632941461886",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRyqKm2bsAAbR7g.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 7 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 109,
+    "title": "Ultra-Minimal Roman Empire Wallpaper",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Ultra-minimal wallpaper of the Ancient Roman Empire, featuring a solitary grand Roman temple with towering marble columns, subtle distant aqueducts and classical ruins, warm golden",
+    "author": "@shushant_l",
+    "author_url": "https://x.com/shushant_l",
+    "source_url": "https://x.com/shushant_l/status/2097988208357474530",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR2NKCyacAAL0iO.jpg"
+    ],
+    "model_note": null,
+    "notes": "❤️ 4 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 110,
+    "title": "Link Chased By Puppet Chickens",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Kakariko Village with an angry flock of fluffy puppet chickens chasing him.",
+    "author": "@mesoelfy",
+    "author_url": "https://x.com/mesoelfy",
+    "source_url": "https://x.com/mesoelfy/status/2097838564465582546",
+    "source_type": "x-post",
+    "published_at": "2026-09-10",
+    "images": [
+      "https://pbs.twimg.com/media/HR0E0LTakAAT8vq.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 2 likes at collection time.",
+    "source_verified": true
   }
 ]
