@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-110-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-118-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (91)](#first-wave-from-x)
+- [🐦 First Wave from X (99)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -2223,6 +2223,149 @@ Ningyōgeki keyword, no image reference. Cucco trouble: Link sprinting across Ka
 </details>
 
 👤 **[@mesoelfy](https://x.com/mesoelfy)** · [Source](https://x.com/mesoelfy/status/2097838564465582546) · 2026-09-10 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 2 likes at collection time.
+
+---
+
+#### 111. Stop-Motion Clay Cosmos Reference Photo
+
+<a href="https://x.com/higgsfield_ai/status/2097475914124967955"><img src="https://pbs.twimg.com/amplify_video_thumb/2097475811771310080/img/rPdvVcJMRLzNvArz.jpg" alt="Stop-Motion Clay Cosmos Reference Photo — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.
+```
+
+</details>
+
+👤 **[@higgsfield_ai](https://x.com/higgsfield_ai)** · [Source](https://x.com/higgsfield_ai/status/2097475914124967955) · 2026-09-09 · ℹ️ Frame from the original video post — the prompt generates the stop-motion reference photo, with the animation built from it. ❤️ 150 likes at collection time.
+
+---
+#### 112. Realistic iPhone Photo: Tesla Model Y at 0.5x
+
+<a href="https://x.com/blueemi99/status/2097628444926357859"><img src="https://pbs.twimg.com/media/HRwueFraIAAgUdN.jpg" alt="Realistic iPhone Photo: Tesla Model Y at 0.5x — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera
+```
+
+</details>
+
+👤 **[@blueemi99](https://x.com/blueemi99)** · [Source](https://x.com/blueemi99/status/2097628444926357859) · 2026-09-09 · ℹ️ Minimal-prompt style example — author's tip: add "realistic iphone photo" and keep the prompt short. ❤️ 62 likes at collection time.
+
+---
+#### 113. Ultra-Realistic Home-Office Portrait
+
+<a href="https://x.com/Ankit_patel211/status/2097470635949892006"><img src="https://pbs.twimg.com/media/HRu2YTFbIAA47d2.jpg" alt="Ultra-Realistic Home-Office Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an ultra-photorealistic high-definition smartphone photograph of the same young adult woman in the cozy modern home-office setting, reclining naturally on the sofa with her face clearly visible and looking toward the camera.
+
+Prioritize an exceptionally realistic face: authentic natural skin tone with subtle warm undertones, visible pores, fine facial texture, tiny natural imperfections, delicate peach fuzz, subtle freckles and pigmentation variation, realistic under-eye texture, natural lip texture, individual eyelashes, detailed eyebrows, fine stray hairs around the hairline, and physically accurate skin highlights and shadows. Preserve realistic facial proportions and natural asymmetry rather than creating a perfectly symmetrical artificial face.
+
+Use extremely detailed hair strands with realistic flyaways and individual texture. Keep makeup minimal and believable, with natural-looking lips and softly defined eyes. Avoid beauty-filter smoothing or excessive retouching. The skin should look like real human skin photographed at close range, not airbrushed or digitally painted.
+
+Use high dynamic range without an HDR-looking effect, accurate skin-tone rendering, realistic subsurface light interaction, subtle facial shadows, natural window light, physically believable reflections in the eyes, and fine tonal transitions across the cheeks, nose, forehead, and jawline.
+
+Capture with the visual character of a premium modern smartphone camera: extremely sharp facial detail, natural micro-contrast, realistic optical depth, subtle sensor grain, authentic exposure, slight lens imperfections, and true-to-life color reproduction. Make the image feel like an unedited RAW photograph rather than a beauty campaign.
+
+Keep the existing environment: warm contemporary apartment, sofa, laptop, notebook, smartphone, coffee mug, books, skincare products, candle, plants, flowers, desk and dining area in the background, with natural depth of field and realistic environmental detail.
+
+16:9 landscape composition, close-to-medium environmental portrait, face as the primary visual focus, realistic anatomy, candid posture, natural expression.
+
+Negative prompt: plastic skin, porcelain skin, excessive skin smoothing, airbrushing, beauty filter, face reshaping, artificial symmetry, CGI, 3D render, doll-like face, waxy texture, oversharpening halos, fake pores, excessive freckles, unrealistic skin color, cartoon appearance, artificial eyes, distorted facial features, unnatural teeth, blurry face, low resolution, compression artifacts, excessive HDR, fake film grain, watermark, text, logo.
+```
+
+</details>
+
+👤 **[@Ankit_patel211](https://x.com/Ankit_patel211)** · [Source](https://x.com/Ankit_patel211/status/2097470635949892006) · 2026-09-08 · ℹ️ Continuation prompt — attach your own reference image first. ❤️ 49 likes at collection time.
+
+---
+#### 114. Two-Page Story Manga Redraw
+
+<a href="https://x.com/npaka123/status/2097563825499460056"><img src="https://pbs.twimg.com/media/HRwLD9MbQAA5gbb.jpg" alt="Two-Page Story Manga Redraw — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+修正指示:
+セリフ・物語・キャラクター設定を保ち、構図やポーズ、余白を整えた2ページのストーリー漫画風に描き直して
+```
+
+</details>
+
+👤 **[@npaka123](https://x.com/npaka123)** · [Source](https://x.com/npaka123/status/2097563825499460056) · 2026-09-09 · ℹ️ Edit prompt — attach your own manga pages first. ❤️ 30 likes at collection time.
+
+---
+#### 115. Fictional Dating App Advertisement
+
+<a href="https://x.com/Egline_Samoei/status/2097720789009109025"><img src="https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg" alt="Fictional Dating App Advertisement — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is "Cheps are for Kips" use an image of two young African Kalenjin male and female as models
+```
+
+</details>
+
+👤 **[@Egline_Samoei](https://x.com/Egline_Samoei)** · [Source](https://x.com/Egline_Samoei/status/2097720789009109025) · 2026-09-09 · ℹ️ Written for the ChatGPT Images 2.5 advertisement template. ❤️ 30 likes at collection time.
+
+---
+#### 116. Cyberpunk Fur Outfit Specification
+
+<a href="https://x.com/towa_AIillust/status/2097467881432957313"><img src="https://pbs.twimg.com/media/HRuz6dKbYAACgbt.jpg" alt="Cyberpunk Fur Outfit Specification — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Headwear: Headwear: neon pink and neon green fur wolf ears headband, cyberpunk hair clips, Neckwear: neon pink and neon green fur choker with metallic buckle, Top: neon pink and neon green fur cropped top, LED light accents, Waist Details: black crisscross waist straps with tactical buckle, Bottom: neon pink and neon green fur mini skirt, Arms: neon pink and neon green fur arm covers, cybernetic pattern details, Legs: neon pink and neon green fur leg warmers, Footwear: futuristic platform shoes, Accessories: fluffy neon pink and neon green wolf tail, Material and Theme: detailed fur texture, neon pink and neon green color scheme, cyberpunk fashion style, matching outfit set
+```
+
+</details>
+
+👤 **[@towa_AIillust](https://x.com/towa_AIillust)** · [Source](https://x.com/towa_AIillust/status/2097467881432957313) · 2026-09-08 · ℹ️ Outfit specification — attach your own character image first. ❤️ 26 likes at collection time.
+
+---
+#### 117. 1985 Photo Trend Transformation
+
+<a href="https://x.com/eyishazyer/status/2097686494127493248"><img src="https://pbs.twimg.com/media/HRx0d7kbEAAiXci.jpg" alt="1985 Photo Trend Transformation — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance.  Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.
+```
+
+</details>
+
+👤 **[@eyishazyer](https://x.com/eyishazyer)** · [Source](https://x.com/eyishazyer/status/2097686494127493248) · 2026-09-09 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 9 likes at collection time.
+
+---
+#### 118. Macro World Inside a Peeled Tangerine
+
+<a href="https://x.com/JohnnyWang8802/status/2097800514633429315"><img src="https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png" alt="Macro World Inside a Peeled Tangerine — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png" alt="Macro World Inside a Peeled Tangerine additional render" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
+Three figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
+A single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
+Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
+Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
+Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+```
+
+</details>
+
+👤 **[@JohnnyWang8802](https://x.com/JohnnyWang8802)** · [Source](https://x.com/JohnnyWang8802/status/2097800514633429315) · 2026-09-09 · ℹ️ ❤️ 9 likes at collection time.
 
 ---
 

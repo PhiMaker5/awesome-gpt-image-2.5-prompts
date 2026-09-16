@@ -2197,5 +2197,158 @@
     "model_note": null,
     "notes": "Edit prompt — attach your own reference image first. ❤️ 2 likes at collection time.",
     "source_verified": true
+  },
+  {
+    "id": 111,
+    "title": "Stop-Motion Clay Cosmos Reference Photo",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create one square stop-motion reference photo, not a storyboard: a handmade matte-clay coral-pink cosmos flower in dark brown soil against a warm cream backdrop. Locked straight-on low camera, 70mm macro, orthographic feel. Soil fills the bottom 22%, peaking at (50%,79%); the centered stem runs from (50%,80%) to the flower center at (50%,33%). Add exactly two green leaves and a 35%-wide flower head with exactly 10 coral petals and a textured golden center. Include subtle fingerprints, soil crumbs, and a few pebbles. Use soft upper-left lighting and fixed shadows. Keep the full flower visible, with the camera and soil stationary for animation. No pot, extra plants, characters, insects, hands, text, watermark, border, or grid.",
+    "author": "@higgsfield_ai",
+    "author_url": "https://x.com/higgsfield_ai",
+    "source_url": "https://x.com/higgsfield_ai/status/2097475914124967955",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/amplify_video_thumb/2097475811771310080/img/rPdvVcJMRLzNvArz.jpg"
+    ],
+    "model_note": null,
+    "notes": "Frame from the original video post — the prompt generates the stop-motion reference photo, with the animation built from it. ❤️ 150 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 112,
+    "title": "Realistic iPhone Photo: Tesla Model Y at 0.5x",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "realistic iphone photo of a tesla model y from parking lot, done with 0.5x camera",
+    "author": "@blueemi99",
+    "author_url": "https://x.com/blueemi99",
+    "source_url": "https://x.com/blueemi99/status/2097628444926357859",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRwueFraIAAgUdN.jpg"
+    ],
+    "model_note": null,
+    "notes": "Minimal-prompt style example — author's tip: add \"realistic iphone photo\" and keep the prompt short. ❤️ 62 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 113,
+    "title": "Ultra-Realistic Home-Office Portrait",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create an ultra-photorealistic high-definition smartphone photograph of the same young adult woman in the cozy modern home-office setting, reclining naturally on the sofa with her face clearly visible and looking toward the camera.\n\nPrioritize an exceptionally realistic face: authentic natural skin tone with subtle warm undertones, visible pores, fine facial texture, tiny natural imperfections, delicate peach fuzz, subtle freckles and pigmentation variation, realistic under-eye texture, natural lip texture, individual eyelashes, detailed eyebrows, fine stray hairs around the hairline, and physically accurate skin highlights and shadows. Preserve realistic facial proportions and natural asymmetry rather than creating a perfectly symmetrical artificial face.\n\nUse extremely detailed hair strands with realistic flyaways and individual texture. Keep makeup minimal and believable, with natural-looking lips and softly defined eyes. Avoid beauty-filter smoothing or excessive retouching. The skin should look like real human skin photographed at close range, not airbrushed or digitally painted.\n\nUse high dynamic range without an HDR-looking effect, accurate skin-tone rendering, realistic subsurface light interaction, subtle facial shadows, natural window light, physically believable reflections in the eyes, and fine tonal transitions across the cheeks, nose, forehead, and jawline.\n\nCapture with the visual character of a premium modern smartphone camera: extremely sharp facial detail, natural micro-contrast, realistic optical depth, subtle sensor grain, authentic exposure, slight lens imperfections, and true-to-life color reproduction. Make the image feel like an unedited RAW photograph rather than a beauty campaign.\n\nKeep the existing environment: warm contemporary apartment, sofa, laptop, notebook, smartphone, coffee mug, books, skincare products, candle, plants, flowers, desk and dining area in the background, with natural depth of field and realistic environmental detail.\n\n16:9 landscape composition, close-to-medium environmental portrait, face as the primary visual focus, realistic anatomy, candid posture, natural expression.\n\nNegative prompt: plastic skin, porcelain skin, excessive skin smoothing, airbrushing, beauty filter, face reshaping, artificial symmetry, CGI, 3D render, doll-like face, waxy texture, oversharpening halos, fake pores, excessive freckles, unrealistic skin color, cartoon appearance, artificial eyes, distorted facial features, unnatural teeth, blurry face, low resolution, compression artifacts, excessive HDR, fake film grain, watermark, text, logo.",
+    "author": "@Ankit_patel211",
+    "author_url": "https://x.com/Ankit_patel211",
+    "source_url": "https://x.com/Ankit_patel211/status/2097470635949892006",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRu2YTFbIAA47d2.jpg"
+    ],
+    "model_note": null,
+    "notes": "Continuation prompt — attach your own reference image first. ❤️ 49 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 114,
+    "title": "Two-Page Story Manga Redraw",
+    "group": "x",
+    "category": "Precision Editing",
+    "language": "ja",
+    "prompt": "修正指示:\nセリフ・物語・キャラクター設定を保ち、構図やポーズ、余白を整えた2ページのストーリー漫画風に描き直して",
+    "author": "@npaka123",
+    "author_url": "https://x.com/npaka123",
+    "source_url": "https://x.com/npaka123/status/2097563825499460056",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRwLD9MbQAA5gbb.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own manga pages first. ❤️ 30 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 115,
+    "title": "Fictional Dating App Advertisement",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Create an advertisement for TilingiTinder an app, that connects people with lovers. Tagline is \"Cheps are for Kips\" use an image of two young African Kalenjin male and female as models",
+    "author": "@Egline_Samoei",
+    "author_url": "https://x.com/Egline_Samoei",
+    "source_url": "https://x.com/Egline_Samoei/status/2097720789009109025",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRyZFRmaYAA9jov.jpg"
+    ],
+    "model_note": null,
+    "notes": "Written for the ChatGPT Images 2.5 advertisement template. ❤️ 30 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 116,
+    "title": "Cyberpunk Fur Outfit Specification",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "ja",
+    "prompt": "Headwear: Headwear: neon pink and neon green fur wolf ears headband, cyberpunk hair clips, Neckwear: neon pink and neon green fur choker with metallic buckle, Top: neon pink and neon green fur cropped top, LED light accents, Waist Details: black crisscross waist straps with tactical buckle, Bottom: neon pink and neon green fur mini skirt, Arms: neon pink and neon green fur arm covers, cybernetic pattern details, Legs: neon pink and neon green fur leg warmers, Footwear: futuristic platform shoes, Accessories: fluffy neon pink and neon green wolf tail, Material and Theme: detailed fur texture, neon pink and neon green color scheme, cyberpunk fashion style, matching outfit set",
+    "author": "@towa_AIillust",
+    "author_url": "https://x.com/towa_AIillust",
+    "source_url": "https://x.com/towa_AIillust/status/2097467881432957313",
+    "source_type": "x-post",
+    "published_at": "2026-09-08",
+    "images": [
+      "https://pbs.twimg.com/media/HRuz6dKbYAACgbt.jpg"
+    ],
+    "model_note": null,
+    "notes": "Outfit specification — attach your own character image first. ❤️ 26 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 117,
+    "title": "1985 Photo Trend Transformation",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance.  Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.",
+    "author": "@eyishazyer",
+    "author_url": "https://x.com/eyishazyer",
+    "source_url": "https://x.com/eyishazyer/status/2097686494127493248",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRx0d7kbEAAiXci.jpg"
+    ],
+    "model_note": null,
+    "notes": "Edit prompt — attach your own reference image first. ❤️ 9 likes at collection time.",
+    "source_verified": true
+  },
+  {
+    "id": 118,
+    "title": "Macro World Inside a Peeled Tangerine",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "Macro cinematic photography inside a peeled tangerine resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.\nThree figures, each about two centimeters tall, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.\nA single low-angle sun is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.\nAnamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.\nKodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.\nOverall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.",
+    "author": "@JohnnyWang8802",
+    "author_url": "https://x.com/JohnnyWang8802",
+    "source_url": "https://x.com/JohnnyWang8802/status/2097800514633429315",
+    "source_type": "x-post",
+    "published_at": "2026-09-09",
+    "images": [
+      "https://pbs.twimg.com/media/HRziPXvbMAA4nRd.png",
+      "https://pbs.twimg.com/media/HRziQpAaQAAk4rM.png"
+    ],
+    "model_note": null,
+    "notes": "❤️ 9 likes at collection time.",
+    "source_verified": true
   }
 ]
