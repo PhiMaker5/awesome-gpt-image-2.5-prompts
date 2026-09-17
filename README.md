@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-118-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-122-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (99)](#first-wave-from-x)
+- [🐦 First Wave from X (103)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -2369,6 +2369,95 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
+#### 119. Candid Night Travel Portrait
+
+<a href="https://x.com/Aqsahere_/status/2097693634569396706"><img src="https://pbs.twimg.com/media/HRyBPMdbUAA5cth.jpg" alt="Candid Night Travel Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A realistic candid travel photo of a young East Asian woman standing on an old stone walkway beside a historic city wall at night. Behind her is a beautiful traditional Chinese-style building glowing with warm golden lights and deep red accents, with layered roofs, curved upturned eaves, detailed wooden architecture, and softly illuminated windows. Tall red lanterns hang from an ornate black lamp post nearby, adding a warm glow to the scene.
+She has long, straight dark brown hair falling naturally over her shoulders and back, with a few loose strands around her face. She has soft youthful features and a gentle, genuine smile as she looks naturally toward the camera. She is wearing an oversized dark charcoal-gray leather jacket with a relaxed, slightly loose fit, paired with wide-leg light-gray jeans. A small black shoulder bag hangs at her side with a cute little white plush charm attached to it.
+She is casually leaning against the black metal railing, resting one arm comfortably on it while her body is turned slightly toward the camera. The pose should feel spontaneous and relaxed, like a friend captured the moment while she was enjoying an evening walk. The old dark brick wall stretches behind her, with warm lights highlighting parts of the stonework, while the paved walkway continues into the distance with a few people and subtle city lights.
+The sky is a deep gray-blue with soft clouds, contrasting naturally with the warm golden architecture and glowing red lanterns. Keep everything believable and lived-in, with realistic skin texture, natural facial proportions, individual hair strands, authentic leather and denim textures, soft evening shadows, subtle reflections from the lights, and realistic depth of field. Shot with a modern smartphone camera, slightly imperfect and natural rather than overly polished, with soft cinematic tones and a subtle dreamy atmosphere. Wide horizontal 16:9 composition.
+```
+
+</details>
+
+👤 **[@Aqsahere_](https://x.com/Aqsahere_)** · [Source](https://x.com/Aqsahere_/status/2097693634569396706) · 2026-09-09 · ℹ️ ❤️ 47 likes at collection time.
+
+---
+#### 120. Poolside Porcelain Beauty Portrait
+
+<a href="https://x.com/johnAGI168/status/2097548765389258913"><img src="https://pbs.twimg.com/media/HRv9YfuaoAAU2ur.jpg" alt="Poolside Porcelain Beauty Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A polished vertical beauty portrait of a petite Spanish woman seated beside a mint-green indoor pool. Preserve the exact delicate, soft, doll-like facial proportions described below. The character occupies approximately 80 percent of the frame, photographed from slightly above eye level, with the composition extending from the top of her hair to her covered lap.
+
+She has a very small heart-shaped face with a narrow lower face, a softly tapered jawline, a short delicate chin, smooth understated cheekbones, a compact midface, and refined symmetrical features. Her eyes are exceptionally large, luminous, and slightly wide-set, with a rounded almond shape, pale gray-green irises, dark defined upper lash lines, softly extended outer eyeliner, fine lower lashes, and bright glassy catchlights. Her eyebrows are slim, softly arched, and light ash brown. She has a small straight nose with a narrow bridge and petite rounded tip. Her lips are small, softly full, and rose-pink, with a subtle relaxed closed-mouth smile.
+
+Her complexion is pale warm ivory with a perfectly even, softly luminous beauty finish, delicate pink blush concentrated on the upper cheeks, and a smooth porcelain appearance. Her expression is gentle, dreamy, composed, and slightly playful. The facial proportions remain petite and delicate rather than angular or strongly sculpted.
+
+Her hair is a shoulder-length platinum-blonde layered lob. The longest strands stop precisely at the collarbones. It has a deep side part, high soft volume at the crown, a broad swept section flowing across the forehead, champagne-blonde highlights on the upper layers, and cool smoky ash-gray undertones through the lower layers and feathered ends. One side rests over her shoulder while the opposite side fans outward through her raised hand. Silky straight texture, lightweight separated strands, softly curved ends, and gentle natural movement.
+
+She has a slim, narrow-framed physique with a long graceful neck, gently sloping shoulders, slender arms, a compact torso, a narrow waist, and balanced feminine proportions.
+
+She wears a vivid raspberry-red cropped camisole with a soft lightweight silhouette. The camisole has thin shoulder straps tied into neat ribbon bows, a low curved neckline edged with delicate lace, subtle floral lace across the center of the bust, a semi-transparent fine-mesh lower bodice, gentle ruching at the center, and several long raspberry drawstrings hanging vertically from a small front bow. The garment appears softly fitted and flexible rather than rigidly structured.
+
+A high-waisted deep peacock-blue satin maxi skirt begins at her waist. The fabric has rich teal-blue highlights, smooth reflective folds, and a fluid drape. The long skirt flows continuously across her lap and completely covers her crossed legs.
+
+She wears long ornate gold dangling earrings, a translucent pale-gray jade bangle, a dark red bead bracelet, a thin black elastic bracelet, and delicate metallic rings. A tiny metallic navel piercing is visible between the cropped top and the high-waisted skirt.
+
+Recreate the pose precisely: she sits upright on the pale stone pool ledge with her torso facing almost directly toward the camera. Her shoulders remain relaxed. Her head tilts noticeably toward camera-left while her eyes look directly into the lens. The arm on camera-left crosses diagonally downward over her torso and rests softly across her covered lap. The arm on camera-right bends upward beside her shoulder; the wrist is relaxed and the fingertips lightly hold the ends of her outward-flowing hair. Her fingers are slender and naturally curved.
+
+A clean modern indoor pool café forms the background. Mint-green illuminated water fills most of the middle background. A simple pale natural-wood counter spans the upper portion of the frame, with only a few softly blurred metallic drink containers, white vessels, stacked cups, and minimal dark café equipment. Plain warm-beige wall, uncluttered surfaces, no visible signage, no decorative writing, and no prominent background people. The background remains quiet, softly blurred, and secondary to the woman.
+
+Soft frontal beauty lighting with gentle warm indoor illumination and a faint mint-green reflection from the pool. Bright, evenly exposed face, very soft shadow transitions, luminous eyes, delicate highlights along the pale hair, and restrained reflections on the satin skirt. Clean smartphone beauty-camera aesthetic with a subtle smoothing effect, gentle pastel color rendering, low contrast, and softly glowing skin.
+
+Vertical 9:16 social-media portrait, slight high-angle viewpoint, medium portrait framing, natural 50mm-equivalent perspective, face positioned near the upper center, raised hand fully visible on camera-right, covered lap visible in the lower frame, moderate background separation, sharpest focus on the eyes and face.
+
+High-fidelity photographic beauty portrait. Smooth luminous skin with extremely fine natural texture, subtle peach fuzz, gentle subsurface light on the cheeks and nose, and an even porcelain finish. Hair rendered as fine individual platinum and ash-gray strands with realistic transparency and soft movement. Fine mesh, lace, ribbons, jewelry, and satin rendered with accurate material detail. Realistic eyes with moist reflections and clear gray-green iris patterns. Accurate petite facial anatomy, slender hands, natural fingers, slim body proportions, soft fine grain, neutral-warm highlights, lightly cooled shadows, lifelike photography with the refined softness of a high-quality beauty-filtered social-media portrait.
+```
+
+</details>
+
+👤 **[@johnAGI168](https://x.com/johnAGI168)** · [Source](https://x.com/johnAGI168/status/2097548765389258913) · 2026-09-09 · ℹ️ ❤️ 36 likes at collection time.
+
+---
+#### 121. Cozy Living-Room Portrait
+
+<a href="https://x.com/AIqoro/status/2097539643944362184"><img src="https://pbs.twimg.com/media/HRv1K0LbAAAcEij.jpg" alt="Cozy Living-Room Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ultra-realistic close-up indoor portrait of a beautiful young woman sitting casually in a cozy modern living room, looking slightly to the side with a playful kissy expression. She has expressive green-gray eyes, soft natural facial features, rosy cheeks, glossy pink lips, and dark brown hair styled in a voluminous messy updo with loose strands framing her face and a small gold hair clip. She wears a fitted white ribbed tank top with red trim and dark gray pants. Both hands are raised delicately beside her face, fingers relaxed, creating a cute playful pose.
+
+Warm indoor ambient lighting mixed with soft natural illumination, realistic skin texture, subtle makeup, detailed eyelashes, natural hair strands, authentic fabric texture. Background features a beige sofa, warm wooden flooring, an open hallway with decorative patterned tiles and soft ceiling lights, creating a comfortable home atmosphere. Shallow depth of field, softly blurred background, realistic shadows, cinematic photography, 50mm lens, f/1.8, high dynamic range, natural color grading, sharp focus on the eyes and face, photorealistic, ultra-detailed, 8K quality, candid lifestyle photography, no artificial CGI appearance.
+```
+
+</details>
+
+👤 **[@AIqoro](https://x.com/AIqoro)** · [Source](https://x.com/AIqoro/status/2097539643944362184) · 2026-09-09 · ℹ️ ❤️ 26 likes at collection time.
+
+---
+#### 122. Phone-Screen Frame Portrait
+
+<a href="https://x.com/AI__TSUBAKI/status/2097448516322988041"><img src="https://pbs.twimg.com/media/HRuiGlXaAAA0TKd.jpg" alt="Phone-Screen Frame Portrait — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Ultra-realistic iPhone creative portrait, identity preserved exactly from reference image.  Young woman standing indoors in front of a glass storefront or reflective wall, photographed from a slightly high front angle. She holds a smartphone horizontally directly in front of her face, covering her eyes and upper face in real life. The phone screen faces the camera and clearly shows a live camera/photo view of her face.  Composition: The real woman is visible behind the phone, but her face is mostly hidden by the horizontal phone. On the phone screen, her face appears clearly centered, smiling softly and winking. The phone acts like a frame within the frame. Her hand grips the top edge of the phone, fingers visible across the top.  Pose: One hand holds the phone horizontally across her face. Her other hand is lower near her waist making a peace sign or casual gesture. She stands relaxed, facing camera.  Outfit: White fitted zip-front sleeveless top, loose light-wash baggy jeans, brown belt, playful accessories, rings, bracelet, red-and-white shoulder bag, small plush/keychain accessories hanging from bag or belt.  Phone screen details: The phone screen shows a clean live-camera image of her face with a wink and soft smile. Add cute sticker-style doodles around the screen/photo area: small colorful sparkles, stars, flower sticker near the face. The stickers should look like playful phone-camera decoration, not random floating objects.  Environment: Indoor mall/storefront area with glass doors, reflections, polished floor, soft daylight mixed with indoor light, casual streetwear snapshot vibe.  Camera + lighting: 0.5x iPhone wide-angle photo, close candid framing, realistic reflections on glass and phone screen, slight distortion on hands, raw social-media feel.  Important: Match the phone-covering-face composition, horizontal phone screen showing her face, wink expression on screen, hand gripping phone, playful stickers, white zip top, baggy jeans, accessories, and indoor glass background closely.  Natural skin texture, realistic screen reflections, no beauty filter, no smoothing. 4K vertical 9:16.
+```
+
+</details>
+
+👤 **[@AI__TSUBAKI](https://x.com/AI__TSUBAKI)** · [Source](https://x.com/AI__TSUBAKI/status/2097448516322988041) · 2026-09-08 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 24 likes at collection time.
+
+---
 ## 🔬 Hands-On Write-ups
 
 Verified prompts from day-one hands-on reviews.
