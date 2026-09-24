@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-122-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-123-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (103)](#first-wave-from-x)
+- [🐦 First Wave from X (104)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -2456,6 +2456,40 @@ Ultra-realistic iPhone creative portrait, identity preserved exactly from refere
 </details>
 
 👤 **[@AI__TSUBAKI](https://x.com/AI__TSUBAKI)** · [Source](https://x.com/AI__TSUBAKI/status/2097448516322988041) · 2026-09-08 · ℹ️ Edit prompt — attach your own reference image first. ❤️ 24 likes at collection time.
+
+---
+#### 123. Dashcam Still: Cola Tanker Breakdown
+
+<a href="https://x.com/techhalla/status/2100526486113472703"><img src="https://pbs.twimg.com/media/HSaRCRRXkAAhJpL.jpg" alt="Dashcam Still: Cola Tanker Breakdown — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+DIRECTIVE:
+Produce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.
+
+BEAT / COMPOSITION:
+Looking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.
+
+COCA-COLA TRUCK (LEFT, CRITICAL):
+A full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.
+
+MENTOS TRUCK (BESIDE IT, CRITICAL):
+Right next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.
+
+CAMERA PACK:
+Fixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.
+
+LIGHT:
+Daylight, overcast or sun, real road color, cola looking like dark soda not black oil.
+
+PHOTOGRAPHIC CHARACTER:
+Unstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.
+```
+
+</details>
+
+👤 **[@techhalla](https://x.com/techhalla)** · [Source](https://x.com/techhalla/status/2100526486113472703) · 2026-09-17 · ℹ️ Image-frame prompt from the author's GPT Image 2.5 → Seedance 2.5 workflow; the post also includes the follow-up video prompt. ❤️ 470 likes at collection time.
 
 ---
 ## 🔬 Hands-On Write-ups

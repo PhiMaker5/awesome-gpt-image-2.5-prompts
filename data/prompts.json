@@ -2426,5 +2426,24 @@
     "model_note": null,
     "notes": "Edit prompt — attach your own reference image first. ❤️ 24 likes at collection time.",
     "source_verified": true
+  },
+  {
+    "id": 123,
+    "title": "Dashcam Still: Cola Tanker Breakdown",
+    "group": "x",
+    "category": "Style & Intelligence",
+    "language": "en",
+    "prompt": "DIRECTIVE:\nProduce one still that reads as a real in-car dashcam frame grabbed from a moving car on a highway. Optical dashcam capture, wide windshield view, windshield glass, A-pillar, a slice of dashboard/hood — lived-in dashcam JPEG, not cinema, not HDR.\n\nBEAT / COMPOSITION:\nLooking forward through the windshield. On the LEFT side of the road (left lane or left shoulder, clearly in frame): TWO branded trucks close together.\n\nCOCA-COLA TRUCK (LEFT, CRITICAL):\nA full-size Coca-Cola tanker / delivery truck, official Coca-Cola red livery and logos readable. It has a breakdown: a torn ragged hole in the tank wall. A thick, heavy jet of dark-brown Coca-Cola is blasting out of that hole onto the asphalt — lots of liquid, puddle spreading, foam, spray in the air, wet road shine. The truck is stopped or crawling, hazard situation.\n\nMENTOS TRUCK (BESIDE IT, CRITICAL):\nRight next to the Coca-Cola truck (same left cluster, slightly ahead or alongside): a closed box truck / delivery truck with large, unmistakable MENTOS branding on the side (Mentos logo, candy rolls artwork). Rear and side doors CLOSED. No candy spilling. You can clearly read that it is a Mentos truck.\n\nCAMERA PACK:\nFixed dashcam behind the windshield, slight barrel wide, dashboard or hood bottom of frame, windshield dirt/reflections, timestamp overlay optional, daytime road, other traffic farther ahead. Real consumer dashcam still.\n\nLIGHT:\nDaylight, overcast or sun, real road color, cola looking like dark soda not black oil.\n\nPHOTOGRAPHIC CHARACTER:\nUnstaged dashcam grab — physically grounded trucks, readable brands, the leak is the event.",
+    "author": "@techhalla",
+    "author_url": "https://x.com/techhalla",
+    "source_url": "https://x.com/techhalla/status/2100526486113472703",
+    "source_type": "x-post",
+    "published_at": "2026-09-17",
+    "images": [
+      "https://pbs.twimg.com/media/HSaRCRRXkAAhJpL.jpg"
+    ],
+    "model_note": null,
+    "notes": "Image-frame prompt from the author's GPT Image 2.5 → Seedance 2.5 workflow; the post also includes the follow-up video prompt. ❤️ 470 likes at collection time.",
+    "source_verified": true
   }
 ]
