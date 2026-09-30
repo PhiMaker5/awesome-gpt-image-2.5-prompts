@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/prompts-123-blueviolet?style=flat-square" alt="Prompts">
+  <img src="https://img.shields.io/badge/prompts-127-blueviolet?style=flat-square" alt="Prompts">
   <img src="https://img.shields.io/badge/official_examples-18-orange?style=flat-square" alt="Official">
   <img src="https://img.shields.io/badge/updated-daily-blue?style=flat-square" alt="Updated daily">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
@@ -38,7 +38,7 @@ Every prompt comes from a named source — OpenAI's official guide, a real post 
 - [🤔 What is this?](#what-is-this)
 - [🧭 How to use](#how-to-use)
 - [🏛️ Official Examples (18)](#official-examples)
-- [🐦 First Wave from X (104)](#first-wave-from-x)
+- [🐦 First Wave from X (108)](#first-wave-from-x)
 - [🔬 Hands-On Write-ups (1)](#hands-on-write-ups)
 - [🤝 Contributing](#contributing)
 - [⚖️ License & Attribution](#license)
@@ -2490,6 +2490,80 @@ Unstaged dashcam grab — physically grounded trucks, readable brands, the leak 
 </details>
 
 👤 **[@techhalla](https://x.com/techhalla)** · [Source](https://x.com/techhalla/status/2100526486113472703) · 2026-09-17 · ℹ️ Image-frame prompt from the author's GPT Image 2.5 → Seedance 2.5 workflow; the post also includes the follow-up video prompt. ❤️ 470 likes at collection time.
+
+---
+#### 124. n=4 Batch Self-Check Instruction
+
+<a href="https://x.com/magu_ai_h/status/2100885947584074213"><img src="https://pbs.twimg.com/media/HSfYojmbIAA1bOO.jpg" alt="n=4 Batch Self-Check Instruction — source render from the source" width="560"></a>
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+2枚目以降を生成する際は、完成した1枚目とプロンプトを照らし合わせ、矛盾や破綻があれば修正する
+```
+
+</details>
+
+👤 **[@magu_ai_h](https://x.com/magu_ai_h)** · [Source](https://x.com/magu_ai_h/status/2100885947584074213) · 2026-09-18 · ℹ️ Instruction to append when generating several images in one run — the author reports later frames get auto-corrected against the first. ❤️ 186 likes at collection time.
+
+---
+#### 125. Shonen Jump Samurai Panel Challenge
+
+<a href="https://x.com/Oxebube/status/2103350277298430135"><img src="https://pbs.twimg.com/media/HTCZxtiWIAA6qh8.jpg" alt="Shonen Jump Samurai Panel Challenge — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HTCZzP9W0AE6Udd.jpg" alt="Shonen Jump Samurai Panel Challenge additional render" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+Create a black and white Shonen Jump-style manga panel of ONE samurai, full body head-to-toe in a dynamic lunging mid-strike pose at the exact millisecond of katana impact, low-angle cinematic perspective with extreme foreground-to-background depth, single perfectly straight katana fully drawn with both hands gripping the tsuka with 10 anatomically correct distinct fingers, dramatic speed lines converging precisely to the kissaki tip, heavy cross-hatching for shadows and authentic screentone dot textures on ground, clothing and background, hair and kimono fabric reacting naturally to forward momentum, intense contorted kiai battle shout expression, detailed armor plates with visible hamon line and realistic fabric folds, ultra high-contrast inkwork with clean variable line weight in Takehiko Inoue Vagabond style, keep anatomy, sword geometry, perspective, motion and lighting fully consistent with no extra limbs, duplicated fingers, bent blade, distorted face or random artifacts.
+```
+
+</details>
+
+👤 **[@Oxebube](https://x.com/Oxebube)** · [Source](https://x.com/Oxebube/status/2103350277298430135) · 2026-09-25 · ℹ️ Author's hardened version of a prompt found on OpenArt, posted to stress-test ChatGPT Images 2.5. ❤️ 29 likes at collection time.
+
+---
+#### 126. Vintage Camcorder Resort Portrait
+
+<a href="https://x.com/johnAGI168/status/2100582150131024072"><img src="https://pbs.twimg.com/media/HSbESPiWwAEoAJ_.jpg" alt="Vintage Camcorder Resort Portrait — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HSbESPeWYAEmiMN.jpg" alt="Vintage Camcorder Resort Portrait additional render" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+A cinematic vintage-camcorder snapshot photograph captured on location — an intimate medium-full hero composition of an East Asian woman reclining on a plush resort bed in a moody nighttime suite, the camera positioned at a low bed level in a horizontal framing capturing her relaxed, sleepy gaze and luminous silk texture in an M1 cinematic narrative register.
+
+The woman has long, glossy chestnut-tinted dark brown hair falling softly over her shoulders and pillows, with natural loose strands gently swept back by her right hand resting near her temple. Her fair skin displays a soft, velvety natural texture with fine pores, delicate collarbones, and subtle subsurface scattering under warm indoor illumination. Her dark almond eyes gaze languidly toward the lens with an intimate, unhurried, late-night vulnerability, paired with soft natural pink lips relaxed in a gentle, neutral expression. She wears a luxurious dusty-rose pink silk satin loungewear robe with flowing sleeves draped loosely over a matching lustrous satin cowl-neck camisole, embellished with a sparkling silver crystal rhinestone strap detail resting along her collarbone. She is reclining comfortably on her side across clean white cotton sheets, her left arm extending forward onto the mattress in an effortless, candid posture.
+
+The setting is an intimate tropical resort bungalow bedroom at night — behind her hang gathered off-white sheer linen curtains softly illuminated from within, while to the right in the background stand two slender cylindrical woven rattan standing lamps casting a warm, textured amber glow into the dark space. Printed crisply in the lower-right corner of the frame is a vintage retro orange seven-segment digital camera timestamp reading "2026/09/17 21:21".
+
+The lighting is governed by atmospheric late-night interior physics — a soft, warm frontal fill light illuminates her face, shoulders, and the liquid sheen of the dusty-rose silk fabric with gentle specular glints, while the warm amber lamps in the background provide soft separation against the deep evening shadows, creating a nostalgic early-2000s compact camera flash aesthetic with cozy, lifted shadows and soft highlight bloom.
+
+Captured with a wide-latitude digital cinema look evoking a vintage high-end 35mm compact film camera on a fast 35mm lens at wide aperture T2.0, providing crisp resolution on her facial features, the glittering crystal strap, and silk folds, while smoothly melting the background rattan lamps into warm circular bokeh. Film-negative tungsten color grade with rich amber undertones, authentic skin warmth, and fine 35mm grain across the frame. Real photographic frame captured on a real cinema camera, real prime lens, real silk satin fabric, real woven rattan, real East Asian human subject, real bedroom night environment — no CGI, no rendered look, no digital cleanliness, no plastic surfaces, no AI smoothness, no skin smoothing, no glow, no halation bloom that reads as artificial, no glossy highlights.
+```
+
+</details>
+
+👤 **[@johnAGI168](https://x.com/johnAGI168)** · [Source](https://x.com/johnAGI168/status/2100582150131024072) · 2026-09-17 · ℹ️ ❤️ 13 likes at collection time.
+
+---
+#### 127. Tilt-Shift Miniature World Collage
+
+<a href="https://x.com/Gdgtify/status/2100356053095641424"><img src="https://pbs.twimg.com/media/HSQZJjVXYAARZsH.jpg" alt="Tilt-Shift Miniature World Collage — source render from the source" width="560"></a>
+
+<img src="https://pbs.twimg.com/media/HSQZJicW8AAqTKs.jpg" alt="Tilt-Shift Miniature World Collage additional render" width="320">
+
+<details><summary><strong>📝 Prompt</strong> (click to expand)</summary>
+
+```text
+1:1, 2x2 grid, AI picks different subjects: INTENT     selective attention made geometric; miniaturisation, or a slice of focus cutting across the world UNKNOWNS   tilt angle ;  hinge distance J = f / sin(tilt) ;  aperture N ;  focus distance LAWS   Scheimpflug   subject plane, lens plane and image plane extended meet in ONE common line                 ⇒ tilting the lens TILTS the plane of sharp focus in the world   hinge rule    the focal plane pivots about a hinge line parallel to the lens plane at J below it                 ⇒ the in-focus volume is a WEDGE: zero thickness at the hinge, widening with distance.                   Near sharp band NARROW, far sharp band WIDE — a lawful, monotone flare.   the inversion  sharpness is governed by distance FROM THE TILTED PLANE, not by depth.                 ⇒ objects at very different camera distances can be equally sharp if they lie on the plane                 ⇒ objects at the SAME camera distance can differ in sharpness if one sits off it                 (⇒ the "equal depth ⇒ equal blur" FORBIDDEN of the thin-lens prompt is here REVERSED —                   which is exactly why fake tilt-shift is detectable)   vertical objects  a lamppost, tower or figure standing across the plane is sharp only in the BAND where                 it intersects, blurring above and below — but that band's HEIGHT varies with its distance   shift         rise/fall keeps sensor parallel to the façade ⇒ verticals stay PARALLEL while framing high;                 the horizon sits off-centre. Cropping a tilted-up frame instead leaves converging verticals.   aperture      stopping down widens the wedge; the bokeh still obeys one aperture, one blade count  OVERDETERMINATION   the plane recovered from ≥3 sharp features at differing depths — one plane fits all;                     the wedge's widening rate must agree with the recovered tilt and N HONEST      one tilted plane; sharpness monotone in distance from it; the sharp band widens with depth FORBIDDEN   a blur gradient that is a function of IMAGE HEIGHT rather than of distance from a world plane             (the post-filter tell: an even soft band top and bottom, ignoring the scene's geometry) ;             a sharp band of constant width from foreground to horizon (no wedge) ;             two objects on the same recovered plane, one sharp and one soft ;             a tall vertical uniformly sharp along its whole height while the plane clearly crosses it ;             "shifted" architecture with converging verticals, or unshifted verticals with a centred horizon             that the framing contradicts ;             miniature-faking by blur and saturation alone with a ground-level viewpoint no model would have.
+```
+
+</details>
+
+👤 **[@Gdgtify](https://x.com/Gdgtify)** · [Source](https://x.com/Gdgtify/status/2100356053095641424) · 2026-09-16 · ℹ️ Optics-law prompt (Scheimpflug / hinge rule) written like a pseudo-shader. ❤️ 11 likes at collection time.
 
 ---
 ## 🔬 Hands-On Write-ups
